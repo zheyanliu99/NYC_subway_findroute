@@ -1,0 +1,13 @@
+name: NYC_subway_findroute
+title: NYC_subway_findroute
+username:
+account: zheyanliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5206739
+bundleId: 5294292
+url: https://zheyanliu.shinyapps.io/NYC_subway_findroute/
+when: 1637880931.61893
+lastSyncTime: 1637880931.61893
+asMultiple: FALSE
+asStatic: FALSE

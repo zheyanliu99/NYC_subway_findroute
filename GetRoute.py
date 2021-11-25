@@ -100,7 +100,7 @@ class google_routes():
         return directions_df
         
 
-# %% try this class
+# # %% try this class
 # mygoogle_routes = google_routes()
 # a = mygoogle_routes.get_directions()
 # a
