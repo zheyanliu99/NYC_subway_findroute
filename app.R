@@ -18,13 +18,13 @@ PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime')
 
 # ------------------ App virtualenv setup (Do not edit) ------------------- #
 
-# virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
-# python_path = Sys.getenv('PYTHON_PATH')
-# 
-# # Create virtual env and install dependencies
-# reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
-# reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
-# reticulate::use_virtualenv(virtualenv_dir, required = T)
+virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
+python_path = Sys.getenv('PYTHON_PATH')
+
+# Create virtual env and install dependencies
+reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
+reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
+reticulate::use_virtualenv(virtualenv_dir, required = T)
 
 
 # ------------------ App server logic (Edit anything below) --------------- #
@@ -35,21 +35,21 @@ reticulate::source_python('GetRoute.py')
 
 subwayIcons <- icons(
   iconUrl = "https://maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
-  iconWidth = 16, iconHeight = 16,
-  iconAnchorX = 16, iconAnchorY = 16,
+  iconWidth = 12, iconHeight = 12,
+  iconAnchorX = 12, iconAnchorY = 12,
 )
 
-mygoogle_routes$start_location = '168 st, NY'
-mygoogle_routes$destination = '24 st, NY'
-# it is a R dataframe 
-df = 
-  mygoogle_routes$get_directions() %>% 
-  mutate(num_stops = as.integer(num_stops),
-         route_num = as.integer(route_num))
-
-
-mygoogle_routes$directions_df = reticulate::r_to_py(df)
-mygoogle_routes$get_stops()
+# mygoogle_routes$start_location = '168 st, NY'
+# mygoogle_routes$destination = '24 st, NY'
+# # it is a R dataframe 
+# df = 
+#   mygoogle_routes$get_directions() %>% 
+#   mutate(num_stops = as.integer(num_stops),
+#          route_num = as.integer(route_num))
+# 
+# 
+# mygoogle_routes$directions_df = reticulate::r_to_py(df)
+# mygoogle_routes$get_stops()
 
 
 ####################################
