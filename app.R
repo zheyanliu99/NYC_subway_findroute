@@ -18,16 +18,16 @@ PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime')
 
 # ------------------ App virtualenv setup (Do not edit) ------------------- #
 
-virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
-python_path = Sys.getenv('PYTHON_PATH')
+# virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
+# python_path = Sys.getenv('PYTHON_PATH')
+# 
+# # Create virtual env and install dependencies
+# reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
+# reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
+# reticulate::use_virtualenv(virtualenv_dir, required = T)
 
-# Create virtual env and install dependencies
-reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
-reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
-reticulate::use_virtualenv(virtualenv_dir, required = T)
 
 # ------------------ App server logic (Edit anything below) --------------- #
-
 
 # Import python functions to R
 reticulate::source_python('GetRoute.py')
@@ -38,6 +38,19 @@ subwayIcons <- icons(
   iconWidth = 16, iconHeight = 16,
   iconAnchorX = 16, iconAnchorY = 16,
 )
+
+mygoogle_routes$start_location = '168 st, NY'
+mygoogle_routes$destination = '24 st, NY'
+# it is a R dataframe 
+df = 
+  mygoogle_routes$get_directions() %>% 
+  mutate(num_stops = as.integer(num_stops),
+         route_num = as.integer(route_num))
+
+
+mygoogle_routes$directions_df = reticulate::r_to_py(df)
+mygoogle_routes$get_stops()
+
 
 ####################################
 # User Interface                   #
@@ -79,6 +92,7 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                       # Leaflet map
                                       verbatimTextOutput('routes_selection_box'),
                                       DT::dataTableOutput("tabledata2"), # Results DT table
+                                      DT::dataTableOutput("tabledata3"), # Results DT table
                                       leafletOutput("mymap")
                                     ) # mainPanel()
                                     
@@ -99,31 +113,36 @@ server <- function(input, output, session) {
   directions_raw = reactive({  
     
     mygoogle_routes = google_routes()
+    
     # take dependence on button
     input$submitbutton
     
     mygoogle_routes$start_location = isolate(paste(input$start_location, 'New York', sep = ','))
     mygoogle_routes$destination = isolate(paste(input$destination, 'New York', sep = ','))
     # it is a R dataframe 
+    
     df = 
       mygoogle_routes$get_directions() %>% 
-      
+      mutate(num_stops = as.integer(num_stops),
+             route_num = as.integer(route_num))
+             
+    print(df)
+    
+  })
+  
+  directions_grouped = reactive({  
+    # take dependence on button
+    input$submitbutton
+    df2 = 
+      directions_raw() %>% 
       mutate(
         # change time into minuates
         time = round(time/60),
         # change distance into miles
         distance = round(distance/1609, 1),
-        walking_distance = round(walking_distance/1609, 2))
-             
-    
-    print(df)
-  })
-  
-  directions_grouped = reactive({  
-    df2 = 
-      directions_raw() %>% 
+        walking_distance = round(walking_distance/1609, 2)) %>% 
         group_by(route_num) %>% 
-        # mutate(line = paste0(line, num_stops, collapse = '(')) %>% 
+        # mutate(line = paste0(line, num_stops, collapse = '(')) %>%
         summarise(time = mean(time),
                   distance = mean(distance),
                   walking_distance = mean(walking_distance),
@@ -133,7 +152,7 @@ server <- function(input, output, session) {
           crime_score = round(runif(n),2),
           crowdness_score = round(runif(n),2)
         ) %>% 
-        distinct(line, .keep_all = TRUE) %>% 
+        # distinct(line, .keep_all = TRUE) %>% 
         select(-n, -distance) %>% 
         relocate(route_num, time, walking_distance, crime_score, crowdness_score, line) %>% 
         rename('line[stops]' = line,
@@ -147,11 +166,13 @@ server <- function(input, output, session) {
   
   
   df_map = reactive({
-    directions_raw() %>% 
-      filter(route_num  %in% input$tabledata_rows_selected) %>% 
-      pivot_longer(ends_with('lat'), names_to = 'journey', values_to = 'lat') %>% 
-      pivot_longer(ends_with('lng'), names_to = 'journey2', values_to = 'lng') %>% 
-      filter((journey == 'departure_stop_lat' & journey2 == 'departure_stop_lng')|(journey == 'arrival_stop_lat' & journey2 == 'arrival_stop_lng')) %>% 
+    print(class(directions_raw()))
+    mygoogle_routes = google_routes()
+    mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
+    
+    mygoogle_routes$get_stops() %>% 
+      filter(route_num  %in% input$tabledata_rows_selected) %>%
+      mutate(line = ifelse(line == '7X', '7', line)) %>% 
       mutate(group = paste(as.character(route_num), line)) %>% 
       # add subway service
       mutate(service = 
@@ -198,13 +219,24 @@ server <- function(input, output, session) {
     })
   
   # output$tabledata2 <- DT::renderDataTable({
+  #   print(input$tabledata_rows_selected)
   #   if (input$submitbutton>0) {
-  #     DT::datatable(df_map(),
+  # 
+  #     DT::datatable(df_map() %>%  filter(route_num  %in% input$tabledata_rows_selected) ,
   #                   options = list(scrollX = TRUE),
   #                   rownames = FALSE)
   #   }
   # })
-  
+  # 
+  # output$tabledata3 <- DT::renderDataTable({
+  #   if (input$submitbutton>0) {
+  #     
+  #     DT::datatable(directions_raw(),
+  #                   options = list(scrollX = TRUE),
+  #                   rownames = FALSE)
+  #   }
+  # })
+  # 
   
   output$mymap <- renderLeaflet({
     # Use leaflet() here, and only include aspects of the map that
@@ -228,49 +260,29 @@ server <- function(input, output, session) {
                            'Flushing(7)'))
   
   observe({
-  
-    
+
+
     leafletProxy("mymap", data = df_map()) %>%
-      clearShapes()  %>% 
+      clearShapes()  %>%
       clearMarkers()
-    
-    print('I am here')
-    print(df_map() %>%  distinct(group) %>%  pull(group))
+
+    # print('I am here')
+    # print(df_map() %>%  distinct(group) %>%  pull(group))
     for(group in df_map() %>%  distinct(group) %>%  pull(group)){
-      
+
       leafletProxy("mymap", data = df_map()) %>%
-        addPolylines(lng = ~lng, lat = ~lat, data=df_map()[df_map()$group==group,], color=~pal(service))
+        addPolylines(lng = ~long, lat = ~lat, data=df_map()[df_map()$group==group,], color=~pal(service))
     }
-    
-    leafletProxy("mymap", data = df_map()) %>% 
+
+    leafletProxy("mymap", data = df_map()) %>%
       # addCircles(lng = ~lng , lat = ~lat, weight = 1, stroke = FALSE,
       #                                      radius = 400, opacity = 1, fillOpacity = 1)
-      addMarkers(lng = ~lng, lat = ~lat, icon = subwayIcons)
-    
-    
-    # leafletProxy("mymap", data = df_map()) %>%
-    #   clearShapes() %>%
-    #   addPolylines(lng = ~lng, lat = ~lat, group = ~group, popup = ~route_num, color = ~pal(service)) %>% 
-    #   addCircles(lng = ~lng , lat = ~lat, weight = 1, stroke = FALSE,
-    #                           radius = 400, opacity = 1, fillOpacity = 1) 
+      addMarkers(lng = ~long, lat = ~lat, icon = subwayIcons)
+
+
   })
   
-  # output$mymap <- renderLeaflet({
-  #   s = input$tabledata_rows_selected
-  #   if (length(s)){
-  #   
-  #   leaflet() %>%
-  #     addProviderTiles(providers$Stamen.TonerLite,
-  #                      options = providerTileOptions(noWrap = TRUE) %>%
-  #     addCircles(lng = ~df_map()$arrival_stop_lng , lat = ~df_map()$arrival_stop_lat, weight = 1, stroke = FALSE,
-  #                             radius = 20, popup = ~station, opacity = 1, fillOpacity = 1) %>%
-  #     addCircles(lng = ~df_map()$departure_stop_lat, lat = ~df_map()$departure_stop_lng, weight = 1, stroke = FALSE,
-  #                  radius = 20, popup = ~station, opacity = 1, fillOpacity = 1)
-  # 
-  # 
-  # 
-  #     )}
-  # })
+
   
 }
 
