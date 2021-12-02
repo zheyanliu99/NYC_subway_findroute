@@ -257,7 +257,8 @@ server <- function(input, output, session) {
     # won't need to change dynamically (at least, not unless the
     # entire map is being torn down and recreated).
     leaflet(quakes) %>% 
-      addProviderTiles(providers$Stamen.TonerLite) %>% 
+      # Stamen.TonerLite
+      addProviderTiles(providers$CartoDB.Positron) %>% 
       setView(-73.8399986, 40.746739, zoom = 10)
   })
   
