@@ -99,7 +99,10 @@ class google_routes():
         self.stations_df = stations_df
 
 
-    def get_directions(self):
+    def get_directions(self, departure_time):
+        # Get this from R date input
+        self.departure_time = datetime.datetime.strptime(departure_time, "%Y-%m-%d %H:%M:%S")
+
         gmaps = googlemaps.Client(key = self.key)
         directions = gmaps.directions(self.start_location, self.destination, mode = 'transit', 
                               transit_mode = 'subway', alternatives = True,  departure_time = self.departure_time)
@@ -207,10 +210,12 @@ class google_routes():
 
 # %%
         
-mygoogle_routes = google_routes()
-directions_df = mygoogle_routes.get_directions()
-stops_df = mygoogle_routes.get_stops()
-stops_df
+# mygoogle_routes = google_routes()
+# directions_df = mygoogle_routes.get_directions("2021-12-01 12:12:55")
+# stops_df = mygoogle_routes.get_stops()
+# stops_df
+
+
 
 # # %%
 # def get_stops(directions_dfs, stations_df = stations_df):

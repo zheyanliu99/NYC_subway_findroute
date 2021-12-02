@@ -8,6 +8,7 @@
 # R packages
 library(shiny)
 library(shinythemes)
+library(shinyTime)
 library(tidyverse)
 library(reticulate)
 library(leaflet)
@@ -18,13 +19,13 @@ PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime')
 
 # ------------------ App virtualenv setup (Do not edit) ------------------- #
 
-virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
-python_path = Sys.getenv('PYTHON_PATH')
-
-# Create virtual env and install dependencies
-reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
-reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
-reticulate::use_virtualenv(virtualenv_dir, required = T)
+# virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
+# python_path = Sys.getenv('PYTHON_PATH')
+# 
+# # Create virtual env and install dependencies
+# reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
+# reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
+# reticulate::use_virtualenv(virtualenv_dir, required = T)
 
 
 # ------------------ App server logic (Edit anything below) --------------- #
@@ -76,9 +77,13 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                       HTML("<h5>When you leave?</h5>"),
                                       dateInput("start_date", "Date:", value = Sys.Date(), min =  Sys.Date(), max = Sys.Date() + 14),
                                       
+                                      # Default is current time + 3 min
+                                      timeInput("time_input", "Time", value = strptime(unlist(strsplit(as.character(Sys.time() + 180), split = ' '))[2], "%T")),
+                                      
                                       HTML("<h5>Where to go?</h5>"),
                                       textInput("start_location", "Your Location:", "168 st"),
                                       textInput("destination", "Place of Interest:", "Prospect Park"),
+                                      
                                       
                                       actionButton("submitbutton", 
                                                    "Submit", 
@@ -107,6 +112,12 @@ ui <- fluidPage(theme = shinytheme("paper"),
 ####################################
 server <- function(input, output, session) {
 
+  departure_time = reactive({  
+    
+    input$submitbutton
+    
+    paste(input$start_date, unlist(strsplit(as.character(input$time_input), split = ' '))[2], sep = ' ')
+  })
   
   
   # Input Data
@@ -122,7 +133,7 @@ server <- function(input, output, session) {
     # it is a R dataframe 
     
     df = 
-      mygoogle_routes$get_directions() %>% 
+      mygoogle_routes$get_directions(departure_time()) %>% 
       mutate(num_stops = as.integer(num_stops),
              route_num = as.integer(route_num))
              
@@ -165,6 +176,7 @@ server <- function(input, output, session) {
   })
   
   
+  
   df_map = reactive({
     print(class(directions_raw()))
     mygoogle_routes = google_routes()
@@ -194,6 +206,8 @@ server <- function(input, output, session) {
   output$contents <- renderPrint({
     if (input$submitbutton>0) { 
       isolate("Routes Found") 
+      isolate(paste('Departures at',departure_time()))
+      # isolate(input$time_input)
     } else {
       return("Please enter your start location and destination")
     }
