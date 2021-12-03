@@ -33,6 +33,8 @@ reticulate::use_virtualenv(virtualenv_dir, required = T)
 # Import python functions to R
 reticulate::source_python('GetRoute.py')
 
+# Set time zone
+Sys.setenv(TZ="America/New_York")
 
 subwayIcons <- icons(
   iconUrl = "https://maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
@@ -67,18 +69,18 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                       HTML("<h5>Who are you?</h5>"),
                                       selectInput("gender", "Your Gender",
                                                   list("Female", "Male")),
-                                      selectInput("age", "Your Age",
+                                      selectInput("age", "Your Age:",
                                                   list("<18", "18-30",'30-50','>50')),
-                                      selectInput("race", "Your Race",
+                                      selectInput("race", "Your Race:",
                                                   list(`Hispanic` = list('Hispanic'),
                                                        `Non-Hispanic` = list("White", "Black",'Asian'))),
                                       
                                       
                                       HTML("<h5>When you leave?</h5>"),
-                                      dateInput("start_date", "Date:", value = Sys.Date(), min =  Sys.Date(), max = Sys.Date() + 14),
+                                      dateInput("start_date", "Date(YYYY-MM-DD):", value = Sys.Date(), min =  Sys.Date(), max = Sys.Date() + 14),
                                       
                                       # Default is current time + 3 min
-                                      timeInput("time_input", "Time", value = strptime(unlist(strsplit(as.character(Sys.time() + 180), split = ' '))[2], "%T")),
+                                      timeInput("time_input", "Time(HH:MM:SS):", value = strptime(unlist(strsplit(as.character(Sys.time() + 180), split = ' '))[2], "%T")),
                                       
                                       HTML("<h5>Where to go?</h5>"),
                                       textInput("start_location", "Your Location:", "168 st"),
@@ -178,7 +180,7 @@ server <- function(input, output, session) {
   
   
   df_map = reactive({
-    print(class(directions_raw()))
+    # print(class(directions_raw()))
     mygoogle_routes = google_routes()
     mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
     

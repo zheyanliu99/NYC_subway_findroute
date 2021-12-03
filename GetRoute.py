@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 # %% read data
 # stations_df = pd.read_csv('data/subway_info_final3.csv', encoding= 'unicode_escape')
 # target_stations_df = stations_df[stations_df['linename'].str.contains('A')]
-
+cluster_df = pd.read_csv('data/Kmeans_centers.csv')
 
 stations_df = pd.read_csv('data/NYC_Transit_Subway_Entrance_And_Exit_Data.csv', encoding= 'unicode_escape')
 stations_df = stations_df.fillna('')
@@ -210,109 +210,29 @@ class google_routes():
 
 # %%
         
-# mygoogle_routes = google_routes()
-# directions_df = mygoogle_routes.get_directions("2021-12-01 12:12:55")
-# stops_df = mygoogle_routes.get_stops()
-# stops_df
+mygoogle_routes = google_routes()
+directions_df = mygoogle_routes.get_directions("2021-12-04 12:12:55")
+stops_df = mygoogle_routes.get_stops()
 
 
 
-# # %%
-# def get_stops(directions_dfs, stations_df = stations_df):
-#     stops_dfs = []
-#     for i in range(directions_dfs.shape[0]):
-#         directions_df = directions_dfs.iloc[[i],].reset_index(drop = True)
-#         print(directions_df)
-#         route_num = directions_df['route_num'][0]
-#         line = directions_df['line'][0]
-#         num_stops = directions_df['num_stops'][0]
-#         target_stations_df = stations_df[stations_df['linename'].str.contains(line[0])]
+def impute_and_match(stops_df, cluster_df = cluster_df):
+    cluster_list = []
+    for lat, long in zip(stops_df['lat'], stops_df['long']):
+        cluster_df['distance'] = (cluster_df['lat'] - lat)**2 + (cluster_df['long'] - long)**2
+        cluster_list.append(cluster_df.loc[cluster_df[['distance']].idxmin()[0], 'cluster'])
+    stops_df['cluster'] = cluster_list
+    return stops_df
+    
+impute_and_match(stops_df)
+
+# # code to impute, looks like no need to use
+# df = stops_df.merge(directions_df[['line', 'route_num', 'num_stops']], how = 'left', on = ['line', 'route_num'])
+# route_nums = df.route_num.value_counts().index
+# for route_num in  route_nums:
+#     df_sub1 = df[df['route_num'] == route_num]
+#     lines = df_sub1.line.value_counts().index
+#     for line in lines:
+#         df_sub = df_sub1[df_sub1['line'] == line]
+#         num_stops = df_sub[['num_stops']].iloc[0,][0]
         
-#         stops_dict = {}
-#         stop_info_dict = {'line':line}
-#         current_lat = directions_df['departure_stop_lat'][0]
-#         current_lng = directions_df['departure_stop_lng'][0]
-
-#         end_lat = directions_df['arrival_stop_lat'][0]
-#         end_lng = directions_df['arrival_stop_lng'][0]
-
-#         total_distance = (current_lat - end_lat)**2 + (current_lng - end_lng)**2
-
-#         for stop_num in range(num_stops+1):
-#             # print(stop_num)
-#             # the start location
-#             if stop_num == 0:
-#                 stop_info_dict['station'] = directions_df['departure_stop'][0]
-#                 stop_info_dict['station_type'] = 'start'
-#                 stop_info_dict['lat'] = directions_df['departure_stop_lat'][0]
-#                 stop_info_dict['long'] = directions_df['departure_stop_lng'][0]
-            
-#             # the last station
-#             elif stop_num == num_stops:
-#                 stop_info_dict['station'] = directions_df['arrival_stop'][0]
-#                 stop_info_dict['station_type'] = 'end'
-#                 stop_info_dict['lat'] = end_lat
-#                 stop_info_dict['long'] = end_lng
-        
-#             # other stations in the middle, needs some calculation
-#             else:
-                
-#                 # candidates must make the distance shorter
-#                 target_stations_df['distance'] = (current_lat - target_stations_df['lat'])**2 + (current_lng - target_stations_df['long'])**2 
-#                 target_stations_df['distance_d'] = (end_lat - target_stations_df['lat'])**2 + (end_lng - target_stations_df['long'])**2
-                
-#                 temp_df = target_stations_df[target_stations_df['distance_d'] < total_distance]
-                
-#                 # keep the one closer to destination ]
-#                 print(temp_df.shape)
-#                 min_index = temp_df['distance'].idxmin()
-
-#                 # give values to the dict
-#                 stop_info_dict['station'] = temp_df['station'][min_index]
-#                 stop_info_dict['station_type'] = 'mid'
-#                 stop_info_dict['lat'] = temp_df['lat'][min_index]
-#                 stop_info_dict['long'] = temp_df['long'][min_index]
-
-#                 # update current lat and long
-#                 current_lat = temp_df['lat'][min_index]
-#                 current_lng = temp_df['long'][min_index]
-            
-#             # update stop_info_dict
-#             stops_dict[stop_num] = stop_info_dict
-#             stop_info_dict = {'line':line}
-#             total_distance = (current_lat - end_lat)**2 + (current_lng - end_lng)**2
-        
-#         # generate df from dict
-#         stops_df_list = []
-#         for stops_num in stops_dict:
-#             temp_df = pd.DataFrame.from_dict([stops_dict[stops_num]]).reset_index(drop = True)
-#             temp_df['stops_num'] = stops_num
-#             stops_df_list.append(temp_df)
-#         stops_df = pd.concat(stops_df_list, ignore_index=True)
-#         stops_df['route_num'] = route_num
-#         stops_dfs.append(stops_df)
-
-#     stops_dfs = pd.concat(stops_dfs, ignore_index=True)
-#     return stops_dfs
-
-
-
-
-# # %% try this class
-# mygoogle_routes = google_routes()
-# directions_df = mygoogle_routes.get_directions()
-# directions_df
-
-# # %%
-# key = 'AIzaSyAGrKCa5wYrYmkhiFQcKQ27oz0_jOivtkE'
-# start_location = '168 St, New York, NY 10032'
-# destination = 'JFK, NY 11101'
-# departure_time = datetime.datetime.now()
-
-# gmaps = googlemaps.Client(key = key)
-# directions = gmaps.directions(start_location, destination, mode = 'transit', 
-#                               transit_mode = 'subway', alternatives = True,  departure_time = departure_time)
-
-
-
-# %%
