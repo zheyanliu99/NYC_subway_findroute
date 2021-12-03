@@ -14,18 +14,18 @@ library(reticulate)
 library(leaflet)
 
 PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime')
-# use local python
-use_python('/Users/jimmy/anaconda3/python.exe')
-
-# ------------------ App virtualenv setup (Do not edit) ------------------- #
-
-virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
-python_path = Sys.getenv('PYTHON_PATH')
-#
-# Create virtual env and install dependencies
-reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
-reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
-reticulate::use_virtualenv(virtualenv_dir, required = T)
+# # use local python
+# use_python('/Users/jimmy/anaconda3/python.exe')
+# 
+# # ------------------ App virtualenv setup (Do not edit) ------------------- #
+# 
+# virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
+# python_path = Sys.getenv('PYTHON_PATH')
+# #
+# # Create virtual env and install dependencies
+# reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
+# reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
+# reticulate::use_virtualenv(virtualenv_dir, required = T)
 
 
 # ------------------ App server logic (Edit anything below) --------------- #
@@ -146,6 +146,11 @@ server <- function(input, output, session) {
   directions_grouped = reactive({  
     # take dependence on button
     input$submitbutton
+    
+    mygoogle_routes = google_routes()
+    mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
+    
+    
     df2 = 
       directions_raw() %>% 
       mutate(
@@ -173,13 +178,54 @@ server <- function(input, output, session) {
                # 'distance(mile)' = distance,
                'walking_distance(mile)' = walking_distance)  
       
-    print(df2)
+    
       
+  })
+  
+  df_withmodel =reactive({
+    
+    input$submitbutton
+    
+    # print(class(directions_raw()))
+    mygoogle_routes = google_routes()
+    mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
+    
+   adate = as.character(input$start_date)
+     
+    df1 = 
+      mygoogle_routes$get_stops() %>% 
+      mutate(line = ifelse(line == '7X', '7', line)) %>% 
+      mutate(group = paste(as.character(route_num), line)) %>% 
+      # add subway service
+      mutate(service = 
+               case_when(  line %in% c('A', 'C', 'E')  ~ "8 Avenue(ACE)",
+                           line %in% c('S') ~ "Shuttle(S)",
+                           line %in% c('B', 'D', 'F', 'M') ~ "6 Avenue(BDFM)",
+                           line %in% c('G') ~ "Brooklyn-Queens Crosstown(G)",
+                           line %in% c('L') ~ "14 St-Canarsie(L)",
+                           line %in% c('N', 'Q', 'R', 'W') ~ "Broadway(NQRW)",
+                           line %in% c('1', '2', '3') ~ "7 Avenue(123)",
+                           line %in% c('4', '5', '6') ~ "Lexington Av(456)",
+                           line %in% c('7') ~ "Flushing(7)",
+                           TRUE ~ 'other_line')) %>% 
+      mutate(gender = input$gender,
+             age = input$age,
+             race = input$race,
+             date = adate,
+             time = input$time_input) %>% 
+      relocate(route_num)
+    
+    df2 = impute_and_match(df1)
+    print(input$start_date)
+    df2
+  
+    
   })
   
   
   
   df_map = reactive({
+    
     # print(class(directions_raw()))
     mygoogle_routes = google_routes()
     mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
@@ -244,10 +290,11 @@ server <- function(input, output, session) {
   #   }
   # })
   # 
+  
   # output$tabledata3 <- DT::renderDataTable({
   #   if (input$submitbutton>0) {
-  #     
-  #     DT::datatable(directions_raw(),
+  # 
+  #     DT::datatable(df_withmodel(),
   #                   options = list(scrollX = TRUE),
   #                   rownames = FALSE)
   #   }
