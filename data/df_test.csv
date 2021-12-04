@@ -1,0 +1,3355 @@
+yday,time,vic_age_group,vic_race,vic_sex,service,cluster
+257,16,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+62,16,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+145,0,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+267,4,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+169,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+92,4,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+106,4,25-44,AMERICAN INDIAN/ALASKAN NATIVE,M,7 Avenue(123),Middle Manhattan
+132,4,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+254,16,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+49,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+235,20,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+71,16,45-64,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+205,20,18-24,BLACK,F,7 Avenue(123),Upper Manhattan
+225,16,18-24,WHITE,M,7 Avenue(123),Upper Manhattan
+77,8,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+166,8,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+151,20,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+136,16,18-24,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+10,8,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+118,0,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+81,12,45-64,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+238,20,18-24,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+67,12,45-64,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+69,16,18-24,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+65,12,65+,WHITE,F,7 Avenue(123),Upper Manhattan
+47,4,65+,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+32,4,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+89,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+2,16,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+12,12,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+204,20,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+82,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+152,4,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+224,12,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+136,8,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+149,12,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+166,8,18-24,BLACK,M,7 Avenue(123),Upper Manhattan
+204,16,45-64,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+263,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+146,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+263,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+246,20,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+213,4,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+190,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+268,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+51,12,<18,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+19,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+42,16,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+200,12,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+36,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+47,16,18-24,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+272,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+263,8,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+215,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+193,20,45-64,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+114,12,45-64,WHITE,M,7 Avenue(123),Upper Manhattan
+257,8,65+,WHITE,M,7 Avenue(123),Upper Manhattan
+112,0,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+240,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+210,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+234,0,65+,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+213,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+160,20,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+68,8,18-24,WHITE,F,7 Avenue(123),Upper Manhattan
+148,16,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+13,20,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+249,0,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+135,20,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+99,12,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+183,20,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+148,16,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+94,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+102,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+35,12,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+183,20,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+148,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+39,12,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+247,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+258,20,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+120,12,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+142,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+84,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+184,0,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+198,20,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+87,12,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+71,0,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+242,8,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+228,4,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+38,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+142,16,<18,WHITE,F,7 Avenue(123),Lower Manhattan
+257,8,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+128,8,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+104,20,18-24,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+103,12,65+,BLACK,F,7 Avenue(123),Upper Manhattan
+117,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+249,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+45,8,65+,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+117,12,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+218,12,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+139,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+85,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+120,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+28,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+215,12,18-24,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+219,12,<18,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+220,0,18-24,WHITE,F,7 Avenue(123),Upper Manhattan
+137,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+90,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+150,12,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+112,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+38,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+9,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+51,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+104,8,45-64,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+12,16,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+97,12,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+156,20,<18,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+217,12,<18,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+179,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+140,8,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+120,4,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+172,12,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+105,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+220,20,18-24,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+84,12,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+117,20,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+85,8,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+101,0,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+140,20,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+136,8,65+,WHITE,F,7 Avenue(123),Lower Manhattan
+134,4,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+165,8,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+144,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+73,16,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+56,12,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+81,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+46,16,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+114,4,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+134,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+210,8,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+138,12,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+120,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+101,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+58,16,<18,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+50,16,45-64,WHITE HISPANIC,F,7 Avenue(123),Bronx
+216,4,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+246,12,18-24,BLACK HISPANIC,F,7 Avenue(123),Bronx
+177,16,18-24,BLACK,F,7 Avenue(123),Bronx
+38,8,65+,BLACK,F,7 Avenue(123),Lower Manhattan
+266,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+268,20,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+270,12,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+229,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+135,12,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+144,4,<18,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+226,12,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+118,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+184,8,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+267,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+199,20,<18,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+116,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+36,16,65+,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+148,4,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+100,16,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+131,16,<18,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+33,12,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+86,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+238,12,65+,WHITE,F,7 Avenue(123),Middle Manhattan
+167,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+210,8,18-24,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+83,12,65+,WHITE,M,7 Avenue(123),Middle Manhattan
+193,8,65+,WHITE,F,7 Avenue(123),Middle Manhattan
+43,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+132,16,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+251,16,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+149,0,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+92,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+86,0,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+194,16,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+50,12,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+252,8,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+86,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+162,20,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+50,12,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+145,12,45-64,WHITE,M,7 Avenue(123),Middle Manhattan
+164,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+92,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+44,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+134,4,45-64,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+46,16,45-64,WHITE,M,7 Avenue(123),Middle Manhattan
+267,8,45-64,WHITE,M,7 Avenue(123),Middle Manhattan
+121,12,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+17,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+20,16,18-24,BLACK,F,7 Avenue(123),Middle Manhattan
+110,12,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+176,12,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+208,0,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+86,0,18-24,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+194,16,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+203,0,65+,BLACK,M,7 Avenue(123),Middle Manhattan
+22,4,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+49,16,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+135,16,18-24,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+179,12,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+245,12,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+23,16,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+42,4,45-64,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+158,4,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+76,20,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+197,8,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+179,20,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+241,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+63,8,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+184,4,25-44,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+109,20,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+56,20,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+253,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+235,4,18-24,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+24,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+155,20,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+253,16,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+160,4,18-24,BLACK,M,7 Avenue(123),Middle Manhattan
+90,12,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+142,0,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+203,8,25-44,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+145,8,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+231,16,65+,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+160,4,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+28,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+146,4,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+243,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+222,12,25-44,AMERICAN INDIAN/ALASKAN NATIVE,F,7 Avenue(123),Middle Manhattan
+193,16,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+114,12,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+237,4,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+219,20,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+36,20,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+61,8,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+40,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+42,12,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+256,20,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+131,12,<18,WHITE,M,7 Avenue(123),Middle Manhattan
+41,8,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+76,16,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+186,0,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+76,16,18-24,BLACK,M,7 Avenue(123),Middle Manhattan
+269,0,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+211,12,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+203,16,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+87,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+82,12,18-24,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+97,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+182,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+32,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+224,4,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+194,8,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+71,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+91,12,65+,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+113,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+88,8,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+262,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+26,8,25-44,BLACK HISPANIC,F,7 Avenue(123),Lower Manhattan
+143,20,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+129,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+139,12,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+159,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+162,20,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+138,12,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+154,4,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+17,16,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+22,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+203,4,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+223,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+15,16,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+167,12,<18,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+74,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+265,8,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+200,20,65+,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+125,16,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+75,12,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+226,16,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+34,8,65+,WHITE,F,7 Avenue(123),Middle Manhattan
+140,20,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+139,0,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+135,20,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+75,20,18-24,BLACK,M,7 Avenue(123),Middle Manhattan
+6,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+139,0,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+200,12,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+161,8,25-44,AMERICAN INDIAN/ALASKAN NATIVE,F,7 Avenue(123),Middle Manhattan
+241,16,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+95,16,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+93,16,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+130,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+272,4,25-44,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+181,0,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+220,8,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+42,20,25-44,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+253,0,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+114,20,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+126,12,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+229,0,18-24,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+77,12,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+21,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+10,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+156,20,18-24,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+227,4,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+189,16,<18,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+245,16,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+116,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+240,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+44,12,18-24,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+240,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+50,8,45-64,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+247,12,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+2,16,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+88,20,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+2,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+247,12,18-24,BLACK,F,7 Avenue(123),Lower Manhattan
+190,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+265,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+247,8,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+271,4,18-24,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+177,12,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+205,4,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+206,12,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+102,16,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+119,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+93,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+138,4,<18,WHITE,F,7 Avenue(123),Lower Manhattan
+19,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+78,12,65+,BLACK,M,7 Avenue(123),Lower Manhattan
+125,12,65+,WHITE,F,7 Avenue(123),Lower Manhattan
+2,16,45-64,WHITE,M,7 Avenue(123),Lower Manhattan
+156,20,<18,BLACK,M,7 Avenue(123),Lower Manhattan
+197,4,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+126,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+117,16,18-24,BLACK,M,7 Avenue(123),Lower Manhattan
+158,12,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+241,16,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+261,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+201,8,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+126,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+44,8,18-24,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+112,8,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+174,20,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+154,12,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+144,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+76,4,45-64,BLACK,M,7 Avenue(123),Bronx
+144,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+41,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+189,12,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+162,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+262,4,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+162,8,<18,BLACK,M,7 Avenue(123),Lower Manhattan
+73,8,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+99,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+153,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+125,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+271,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+125,4,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+233,0,25-44,BLACK HISPANIC,F,7 Avenue(123),Lower Manhattan
+218,4,18-24,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+98,0,25-44,BLACK,M,7 Avenue(123),Bronx
+77,4,45-64,WHITE,M,7 Avenue(123),Bronx
+49,20,25-44,BLACK,M,7 Avenue(123),Bronx
+129,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Bronx
+264,20,25-44,WHITE,M,7 Avenue(123),Bronx
+94,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+186,0,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+104,16,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+245,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+129,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+112,8,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+59,16,45-64,WHITE,M,7 Avenue(123),Middle Manhattan
+155,8,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+214,20,65+,BLACK,M,7 Avenue(123),Middle Manhattan
+44,8,65+,WHITE,F,7 Avenue(123),Middle Manhattan
+146,12,45-64,WHITE,F,7 Avenue(123),Middle Manhattan
+157,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+58,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+192,12,25-44,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+10,8,45-64,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+208,4,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+101,4,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+16,16,65+,WHITE,M,7 Avenue(123),Middle Manhattan
+245,12,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+255,0,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+184,4,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+255,4,18-24,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+142,8,65+,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+41,20,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+29,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+242,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+155,0,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+68,20,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+150,16,45-64,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+78,4,65+,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+1,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+125,12,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+71,4,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+215,8,45-64,WHITE,M,7 Avenue(123),Middle Manhattan
+169,8,65+,WHITE,M,7 Avenue(123),Middle Manhattan
+114,20,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+214,20,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+101,4,45-64,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+90,16,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+259,0,45-64,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+114,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+131,8,25-44,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+240,4,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+155,0,18-24,BLACK,M,7 Avenue(123),Middle Manhattan
+214,4,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+63,16,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+7,20,18-24,WHITE,M,7 Avenue(123),Middle Manhattan
+39,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+162,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+75,16,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+218,0,25-44,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+88,20,45-64,WHITE,M,7 Avenue(123),Lower Manhattan
+222,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+131,4,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+101,12,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+129,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+66,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+261,16,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+172,8,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+262,4,18-24,BLACK,M,7 Avenue(123),Lower Manhattan
+257,12,18-24,BLACK,M,7 Avenue(123),Lower Manhattan
+154,0,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+137,8,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+124,20,18-24,WHITE,M,Broadway(NQRW),Middle Manhattan
+62,8,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+10,12,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+169,16,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+84,16,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+21,12,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+196,16,45-64,BLACK HISPANIC,F,Broadway(NQRW),Middle Manhattan
+229,0,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+196,16,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+5,16,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+138,0,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+75,8,18-24,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+105,20,18-24,BLACK,M,Broadway(NQRW),Middle Manhattan
+128,0,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+66,12,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+132,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+34,16,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+186,20,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+144,12,18-24,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+225,4,18-24,WHITE,M,Broadway(NQRW),Middle Manhattan
+29,8,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+220,20,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+92,20,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+105,8,45-64,BLACK HISPANIC,F,Broadway(NQRW),Middle Manhattan
+174,8,18-24,BLACK,F,Broadway(NQRW),Middle Manhattan
+184,20,18-24,WHITE,F,Broadway(NQRW),Middle Manhattan
+220,20,18-24,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+183,20,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+63,20,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+89,12,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+254,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+236,4,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+186,20,18-24,BLACK,F,Broadway(NQRW),Middle Manhattan
+202,20,<18,BLACK,F,Broadway(NQRW),Middle Manhattan
+224,4,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+181,4,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+18,16,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+105,20,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+258,0,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+247,20,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+270,12,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+150,0,25-44,BLACK,F,Broadway(NQRW),Middle Manhattan
+184,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+174,12,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+193,16,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+43,20,45-64,BLACK,M,Broadway(NQRW),Middle Manhattan
+14,20,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+270,16,<18,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+123,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+188,20,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+35,16,18-24,BLACK,M,Broadway(NQRW),Middle Manhattan
+132,4,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+32,8,45-64,BLACK,M,Broadway(NQRW),Middle Manhattan
+43,8,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+233,8,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+172,16,45-64,BLACK,M,Broadway(NQRW),Middle Manhattan
+230,16,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+247,0,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+226,8,18-24,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+273,8,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+45,16,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+252,4,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+163,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+158,16,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+101,16,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+49,16,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+41,16,18-24,BLACK HISPANIC,F,7 Avenue(123),Lower Manhattan
+11,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+125,20,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+153,12,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+43,20,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+211,4,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+57,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+117,16,18-24,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+183,16,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+43,20,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+205,16,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+172,16,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+224,20,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+271,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+121,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+18,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+105,16,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+139,8,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+16,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+261,16,18-24,BLACK,F,7 Avenue(123),Lower Manhattan
+224,20,18-24,BLACK,F,7 Avenue(123),Lower Manhattan
+158,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+40,16,18-24,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+214,0,25-44,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+272,8,<18,BLACK,F,7 Avenue(123),Lower Manhattan
+236,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+156,20,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+261,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+258,8,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+224,20,25-44,BLACK HISPANIC,F,7 Avenue(123),Lower Manhattan
+110,16,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+269,4,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+176,16,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+254,8,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+39,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+164,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+39,20,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+165,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+215,20,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Upper Manhattan
+206,12,45-64,WHITE,M,8 Avenue(ACE),Upper Manhattan
+256,12,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Upper Manhattan
+214,0,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+91,12,25-44,WHITE,F,8 Avenue(ACE),Upper Manhattan
+131,16,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+181,20,25-44,BLACK HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+272,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+272,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Upper Manhattan
+246,8,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+134,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+82,12,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+207,8,25-44,BLACK HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+246,8,65+,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+237,8,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+69,20,45-64,BLACK HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+223,8,45-64,BLACK,F,8 Avenue(ACE),Upper Manhattan
+235,4,25-44,BLACK,F,7 Avenue(123),Bronx
+116,20,25-44,BLACK,M,7 Avenue(123),Bronx
+151,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+159,20,25-44,BLACK,F,7 Avenue(123),Bronx
+261,4,45-64,BLACK,M,7 Avenue(123),Bronx
+181,12,18-24,BLACK,M,7 Avenue(123),Lower Manhattan
+114,12,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+227,0,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+243,20,45-64,WHITE,M,7 Avenue(123),Lower Manhattan
+201,20,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+144,20,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+143,16,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+49,8,25-44,BLACK HISPANIC,M,7 Avenue(123),Lower Manhattan
+85,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+244,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+60,12,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+34,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+234,0,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+34,20,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+217,20,25-44,WHITE,M,7 Avenue(123),Lower Manhattan
+102,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+109,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+132,12,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+69,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+216,8,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+269,4,45-64,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+182,16,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+104,12,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+260,20,45-64,WHITE HISPANIC,M,7 Avenue(123),Lower Manhattan
+161,16,<18,WHITE,M,7 Avenue(123),Upper Manhattan
+171,0,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+248,12,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+74,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+139,12,18-24,BLACK,F,7 Avenue(123),Upper Manhattan
+98,20,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+117,16,65+,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+212,12,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+155,16,65+,BLACK,M,7 Avenue(123),Upper Manhattan
+165,20,25-44,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+212,12,18-24,BLACK,M,7 Avenue(123),Upper Manhattan
+118,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+125,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+140,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+105,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+218,0,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+79,4,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+260,0,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+207,12,18-24,WHITE,M,7 Avenue(123),Upper Manhattan
+68,8,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+106,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+154,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+244,16,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+184,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+32,8,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+30,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+140,20,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+139,12,18-24,BLACK,F,7 Avenue(123),Upper Manhattan
+34,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+76,12,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+260,20,18-24,BLACK,F,7 Avenue(123),Upper Manhattan
+262,12,18-24,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+224,20,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+219,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+151,20,18-24,BLACK,M,7 Avenue(123),Upper Manhattan
+205,16,<18,BLACK,M,7 Avenue(123),Upper Manhattan
+119,16,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+97,20,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+204,16,18-24,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+11,12,18-24,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+240,0,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+143,8,45-64,WHITE,M,7 Avenue(123),Upper Manhattan
+80,16,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+14,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+159,20,45-64,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+90,20,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+128,4,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+177,20,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+7,20,18-24,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+262,12,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+90,20,25-44,WHITE,M,7 Avenue(123),Upper Manhattan
+137,16,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+183,8,18-24,BLACK,F,7 Avenue(123),Middle Manhattan
+116,12,45-64,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+212,12,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+248,0,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+53,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+147,20,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+54,12,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+142,8,18-24,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+71,0,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+52,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+91,0,45-64,BLACK,F,7 Avenue(123),Middle Manhattan
+40,12,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+191,20,25-44,BLACK,F,7 Avenue(123),Middle Manhattan
+16,12,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+154,16,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+154,16,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+210,12,18-24,BLACK HISPANIC,F,7 Avenue(123),Middle Manhattan
+195,12,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+227,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+66,16,18-24,BLACK,F,7 Avenue(123),Middle Manhattan
+182,0,18-24,BLACK,M,7 Avenue(123),Middle Manhattan
+125,16,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+16,12,45-64,BLACK,M,7 Avenue(123),Middle Manhattan
+210,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+47,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+271,4,18-24,BLACK,F,7 Avenue(123),Middle Manhattan
+155,12,65+,WHITE,M,7 Avenue(123),Middle Manhattan
+93,20,45-64,BLACK HISPANIC,M,7 Avenue(123),Middle Manhattan
+32,12,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+112,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+38,8,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+61,4,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+125,8,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+172,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+37,0,65+,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+64,12,65+,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+256,20,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+137,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+208,12,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+76,20,45-64,WHITE,F,7 Avenue(123),Queen-Brooklyn
+119,8,45-64,WHITE,F,7 Avenue(123),Queen-Brooklyn
+16,20,65+,WHITE,M,7 Avenue(123),Queen-Brooklyn
+170,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+20,12,18-24,WHITE,M,7 Avenue(123),Lower Manhattan
+222,12,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+119,16,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+262,0,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+75,16,18-24,WHITE HISPANIC,F,7 Avenue(123),Lower Manhattan
+232,12,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+76,8,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+93,4,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+138,16,65+,BLACK,F,7 Avenue(123),Lower Manhattan
+109,8,25-44,WHITE,F,7 Avenue(123),Lower Manhattan
+105,12,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+242,12,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+215,8,25-44,BLACK HISPANIC,F,7 Avenue(123),Lower Manhattan
+183,16,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+109,12,65+,BLACK,M,7 Avenue(123),Queen-Brooklyn
+14,4,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+58,8,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+90,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+151,4,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+10,8,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+119,12,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+118,4,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+205,8,18-24,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+113,12,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+143,8,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+10,8,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+225,4,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+244,4,25-44,BLACK HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+161,8,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+264,8,65+,BLACK HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+234,20,65+,BLACK,M,7 Avenue(123),Queen-Brooklyn
+64,4,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+11,16,25-44,WHITE,M,7 Avenue(123),Queen-Brooklyn
+266,0,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+76,12,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+102,16,<18,BLACK,F,7 Avenue(123),Queen-Brooklyn
+139,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+40,8,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+33,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+135,16,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+61,8,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+246,0,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+268,20,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+140,4,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+177,12,18-24,AMERICAN INDIAN/ALASKAN NATIVE,M,8 Avenue(ACE),Lower Manhattan
+172,4,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+88,12,65+,BLACK,M,8 Avenue(ACE),Lower Manhattan
+125,4,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+178,16,65+,WHITE,M,8 Avenue(ACE),Lower Manhattan
+168,12,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+232,20,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+228,12,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+67,12,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+270,16,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+123,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+110,20,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+80,8,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+272,4,18-24,BLACK HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+167,12,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+30,16,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+166,12,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+17,16,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+265,0,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+209,12,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+262,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+240,16,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+133,0,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+40,4,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+181,8,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+40,8,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+221,16,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+149,0,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+174,12,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+204,12,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+4,20,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+116,8,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+24,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+144,20,18-24,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+268,20,18-24,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+266,8,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+109,16,45-64,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+42,16,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+234,12,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+31,8,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+163,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+198,0,18-24,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+183,0,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+231,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+252,12,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+160,12,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+229,8,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+132,4,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+147,16,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+57,16,18-24,BLACK,F,Broadway(NQRW),Lower Manhattan
+163,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+149,4,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+146,8,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+65,16,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+5,12,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+248,0,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+68,8,65+,WHITE,F,Broadway(NQRW),Lower Manhattan
+148,0,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+195,8,<18,BLACK,F,Broadway(NQRW),Lower Manhattan
+11,16,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+103,4,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+94,16,18-24,BLACK,F,Broadway(NQRW),Lower Manhattan
+100,12,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+14,12,65+,WHITE,M,Broadway(NQRW),Lower Manhattan
+168,0,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+164,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+84,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+170,0,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+163,8,18-24,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+41,12,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+149,4,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+165,4,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+190,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+23,8,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+16,20,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+193,20,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+204,8,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+246,12,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+227,16,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+169,20,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+171,16,25-44,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+268,12,45-64,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+133,20,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+262,4,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+84,20,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+129,12,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+272,8,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+187,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+68,0,45-64,WHITE,M,7 Avenue(123),Lower Manhattan
+156,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+140,12,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Lower Manhattan
+196,0,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+243,0,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+118,4,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+71,8,18-24,WHITE,F,7 Avenue(123),Lower Manhattan
+13,12,65+,WHITE,M,7 Avenue(123),Lower Manhattan
+23,8,45-64,WHITE,F,7 Avenue(123),Lower Manhattan
+208,0,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Lower Manhattan
+161,20,25-44,BLACK,M,7 Avenue(123),Lower Manhattan
+70,12,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+20,12,65+,BLACK,M,7 Avenue(123),Lower Manhattan
+196,0,25-44,BLACK,F,7 Avenue(123),Lower Manhattan
+201,16,45-64,BLACK,F,7 Avenue(123),Lower Manhattan
+247,0,45-64,BLACK,M,7 Avenue(123),Lower Manhattan
+145,12,65+,BLACK,M,7 Avenue(123),Bronx
+40,4,45-64,WHITE HISPANIC,F,7 Avenue(123),Bronx
+200,0,18-24,BLACK,M,7 Avenue(123),Bronx
+119,16,45-64,BLACK,F,7 Avenue(123),Bronx
+9,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Bronx
+272,8,<18,WHITE HISPANIC,M,7 Avenue(123),Bronx
+165,4,45-64,BLACK,M,7 Avenue(123),Bronx
+247,0,25-44,BLACK HISPANIC,M,7 Avenue(123),Bronx
+74,8,25-44,BLACK,F,7 Avenue(123),Bronx
+19,16,25-44,BLACK,M,7 Avenue(123),Bronx
+192,0,18-24,WHITE,M,7 Avenue(123),Bronx
+138,8,25-44,BLACK,F,7 Avenue(123),Bronx
+114,8,25-44,BLACK,F,7 Avenue(123),Bronx
+219,4,18-24,BLACK,F,7 Avenue(123),Bronx
+228,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+182,16,45-64,AMERICAN INDIAN/ALASKAN NATIVE,F,7 Avenue(123),Upper Manhattan
+237,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+88,12,45-64,WHITE,F,7 Avenue(123),Upper Manhattan
+235,20,25-44,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+121,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+17,12,25-44,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+220,16,<18,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+78,4,25-44,WHITE,F,7 Avenue(123),Upper Manhattan
+141,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+43,8,65+,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Upper Manhattan
+26,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+139,4,18-24,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+260,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+258,12,18-24,BLACK HISPANIC,F,7 Avenue(123),Upper Manhattan
+60,12,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+79,20,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+7,16,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+203,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+220,20,25-44,BLACK,F,7 Avenue(123),Bronx
+241,0,25-44,BLACK,F,7 Avenue(123),Bronx
+248,20,25-44,BLACK,F,7 Avenue(123),Bronx
+145,12,18-24,BLACK,M,7 Avenue(123),Bronx
+200,0,25-44,BLACK,M,7 Avenue(123),Bronx
+38,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Bronx
+265,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+156,0,65+,BLACK,M,7 Avenue(123),Bronx
+149,0,45-64,BLACK,F,7 Avenue(123),Bronx
+153,20,45-64,BLACK,M,7 Avenue(123),Bronx
+207,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Brooklyn
+17,8,45-64,WHITE,M,7 Avenue(123),Brooklyn
+232,8,45-64,WHITE,F,7 Avenue(123),Brooklyn
+121,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Brooklyn
+115,0,25-44,BLACK,M,7 Avenue(123),Brooklyn
+18,4,45-64,WHITE,F,7 Avenue(123),Brooklyn
+111,8,18-24,WHITE HISPANIC,M,7 Avenue(123),Bronx
+187,16,25-44,BLACK HISPANIC,M,7 Avenue(123),Bronx
+98,16,25-44,BLACK,F,7 Avenue(123),Bronx
+236,0,18-24,BLACK,F,7 Avenue(123),Bronx
+82,16,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+249,12,25-44,BLACK,M,7 Avenue(123),Bronx
+256,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+96,12,45-64,BLACK,M,7 Avenue(123),Bronx
+84,20,18-24,WHITE HISPANIC,F,7 Avenue(123),Bronx
+218,16,25-44,BLACK HISPANIC,F,7 Avenue(123),Bronx
+182,16,45-64,BLACK,F,7 Avenue(123),Bronx
+263,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+84,12,45-64,BLACK,M,7 Avenue(123),Bronx
+68,20,45-64,BLACK,F,7 Avenue(123),Bronx
+171,16,45-64,BLACK,M,7 Avenue(123),Bronx
+218,20,18-24,BLACK HISPANIC,F,7 Avenue(123),Bronx
+260,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+224,16,25-44,BLACK,F,7 Avenue(123),Bronx
+112,8,<18,WHITE HISPANIC,F,7 Avenue(123),Brooklyn
+28,8,45-64,WHITE HISPANIC,F,7 Avenue(123),Brooklyn
+131,12,45-64,BLACK,F,7 Avenue(123),Brooklyn
+214,0,25-44,BLACK,M,7 Avenue(123),Brooklyn
+189,0,45-64,BLACK,F,7 Avenue(123),Brooklyn
+187,8,65+,WHITE,M,7 Avenue(123),Brooklyn
+238,4,25-44,WHITE,F,7 Avenue(123),Brooklyn
+75,12,18-24,BLACK,F,7 Avenue(123),Brooklyn
+203,12,45-64,WHITE HISPANIC,F,7 Avenue(123),Brooklyn
+152,0,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+9,12,<18,BLACK,F,7 Avenue(123),Upper Manhattan
+155,20,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+254,8,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+21,20,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+136,12,18-24,BLACK,F,7 Avenue(123),Upper Manhattan
+128,8,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+229,8,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+264,0,25-44,BLACK,F,7 Avenue(123),Bronx
+255,12,18-24,BLACK,M,7 Avenue(123),Bronx
+257,4,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+86,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+171,8,18-24,WHITE,M,7 Avenue(123),Upper Manhattan
+127,20,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+260,12,<18,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+119,16,25-44,AMERICAN INDIAN/ALASKAN NATIVE,M,7 Avenue(123),Upper Manhattan
+220,4,65+,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+266,0,25-44,BLACK HISPANIC,M,7 Avenue(123),Upper Manhattan
+64,16,18-24,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+242,20,45-64,BLACK,F,7 Avenue(123),Upper Manhattan
+237,4,45-64,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+265,12,<18,BLACK,M,7 Avenue(123),Middle Manhattan
+226,0,25-44,WHITE,M,7 Avenue(123),Middle Manhattan
+175,8,<18,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+234,16,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+219,20,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+109,12,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+154,12,25-44,WHITE HISPANIC,M,7 Avenue(123),Middle Manhattan
+212,0,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+213,20,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+139,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+102,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+223,8,25-44,BLACK HISPANIC,F,7 Avenue(123),Middle Manhattan
+257,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+139,4,45-64,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+245,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+156,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Middle Manhattan
+239,16,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+96,8,25-44,WHITE,F,7 Avenue(123),Middle Manhattan
+89,20,25-44,BLACK,M,7 Avenue(123),Middle Manhattan
+109,20,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+167,12,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+270,4,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+232,20,18-24,WHITE,F,7 Avenue(123),Middle Manhattan
+199,16,65+,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Middle Manhattan
+239,16,18-24,WHITE HISPANIC,F,7 Avenue(123),Middle Manhattan
+126,12,25-44,BLACK HISPANIC,M,7 Avenue(123),Bronx
+270,12,<18,WHITE,M,7 Avenue(123),Brooklyn
+179,20,25-44,WHITE HISPANIC,F,7 Avenue(123),Brooklyn
+154,20,45-64,WHITE,M,7 Avenue(123),Brooklyn
+69,16,45-64,WHITE,F,7 Avenue(123),Queen-Brooklyn
+163,12,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+111,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+224,16,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+62,8,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+5,12,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+44,12,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+116,12,25-44,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+224,8,25-44,WHITE,F,7 Avenue(123),Brooklyn
+129,12,45-64,WHITE,M,7 Avenue(123),Brooklyn
+239,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Upper Manhattan
+151,16,18-24,BLACK,M,7 Avenue(123),Upper Manhattan
+137,12,<18,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+268,12,45-64,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+149,20,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+38,20,25-44,WHITE HISPANIC,M,7 Avenue(123),Upper Manhattan
+102,8,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+167,20,25-44,WHITE,M,7 Avenue(123),Queen-Brooklyn
+70,12,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+18,4,45-64,WHITE,M,7 Avenue(123),Queen-Brooklyn
+68,16,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+156,8,45-64,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Bronx
+269,4,18-24,BLACK,M,7 Avenue(123),Bronx
+13,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Bronx
+201,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+142,0,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Bronx
+112,12,25-44,BLACK,F,7 Avenue(123),Bronx
+178,20,45-64,WHITE HISPANIC,M,7 Avenue(123),Bronx
+198,12,45-64,WHITE HISPANIC,F,7 Avenue(123),Bronx
+198,12,<18,WHITE HISPANIC,M,7 Avenue(123),Bronx
+81,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Bronx
+109,16,45-64,WHITE,M,7 Avenue(123),Bronx
+142,0,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+272,8,45-64,BLACK HISPANIC,F,7 Avenue(123),Bronx
+225,4,25-44,BLACK,M,7 Avenue(123),Bronx
+114,8,25-44,WHITE HISPANIC,M,7 Avenue(123),Bronx
+169,12,18-24,WHITE,F,7 Avenue(123),Queen-Brooklyn
+138,16,18-24,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+26,8,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+142,16,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+143,0,18-24,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+2,16,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+259,16,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+148,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+83,12,45-64,BLACK,M,7 Avenue(123),Upper Manhattan
+25,8,25-44,WHITE HISPANIC,F,7 Avenue(123),Upper Manhattan
+61,12,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+203,16,25-44,BLACK,F,7 Avenue(123),Upper Manhattan
+54,20,45-64,WHITE,M,7 Avenue(123),Upper Manhattan
+143,0,25-44,BLACK,M,7 Avenue(123),Upper Manhattan
+56,16,18-24,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Queen-Brooklyn
+116,4,25-44,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+116,16,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+144,8,<18,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+113,16,65+,BLACK,M,7 Avenue(123),Queen-Brooklyn
+266,16,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+49,12,65+,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+245,20,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+229,20,18-24,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Queen-Brooklyn
+106,8,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+207,16,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+200,20,18-24,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+88,16,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+132,12,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+105,4,18-24,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+188,12,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+12,16,45-64,BLACK HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+219,8,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+87,8,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+254,20,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+94,4,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+45,4,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+103,4,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+247,16,45-64,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+257,20,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+166,12,<18,BLACK,M,7 Avenue(123),Queen-Brooklyn
+154,0,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+253,12,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+132,8,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+192,8,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+52,16,25-44,BLACK HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+83,12,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+11,12,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+192,20,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+72,16,<18,BLACK,F,7 Avenue(123),Queen-Brooklyn
+151,12,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+36,12,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+226,0,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+137,16,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+156,0,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+131,4,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+124,12,<18,WHITE HISPANIC,M,7 Avenue(123),Queen-Brooklyn
+257,12,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+160,8,<18,BLACK HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+110,20,18-24,WHITE,M,7 Avenue(123),Queen-Brooklyn
+237,12,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+161,8,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+122,0,25-44,ASIAN / PACIFIC ISLANDER,M,7 Avenue(123),Queen-Brooklyn
+41,20,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+262,4,45-64,BLACK,M,7 Avenue(123),Queen-Brooklyn
+264,0,25-44,BLACK,F,7 Avenue(123),Queen-Brooklyn
+63,16,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+35,4,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+54,16,25-44,WHITE,F,7 Avenue(123),Queen-Brooklyn
+270,12,45-64,WHITE HISPANIC,F,7 Avenue(123),Queen-Brooklyn
+92,12,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+108,16,25-44,ASIAN / PACIFIC ISLANDER,F,7 Avenue(123),Queen-Brooklyn
+211,12,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+33,20,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+134,20,18-24,BLACK,M,7 Avenue(123),Queen-Brooklyn
+87,12,18-24,BLACK,F,7 Avenue(123),Queen-Brooklyn
+259,4,45-64,BLACK,F,7 Avenue(123),Queen-Brooklyn
+260,16,25-44,BLACK,M,7 Avenue(123),Queen-Brooklyn
+90,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+245,8,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+246,12,45-64,BLACK,F,Lexington Av(456),Upper Manhattan
+118,12,18-24,BLACK,F,Lexington Av(456),Upper Manhattan
+261,20,18-24,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+89,16,45-64,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+188,12,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+212,12,45-64,WHITE,M,Lexington Av(456),Upper Manhattan
+29,8,18-24,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+184,8,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+196,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+68,16,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+144,16,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+135,16,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+191,20,<18,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+34,16,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+260,12,<18,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+103,16,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+135,16,18-24,BLACK,M,Lexington Av(456),Upper Manhattan
+202,0,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+212,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+53,20,45-64,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+89,16,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+142,8,25-44,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+270,12,<18,BLACK,M,Lexington Av(456),Upper Manhattan
+70,16,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+271,16,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+166,0,45-64,BLACK,F,Lexington Av(456),Upper Manhattan
+148,12,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+6,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+44,12,<18,WHITE,M,Lexington Av(456),Upper Manhattan
+219,4,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+208,4,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+249,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+134,4,65+,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+94,0,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+172,8,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+40,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+117,16,25-44,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+107,16,18-24,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+272,20,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+245,4,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+21,16,45-64,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+8,20,18-24,BLACK,F,Lexington Av(456),Upper Manhattan
+205,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+111,16,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+117,16,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+175,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+140,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+109,16,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+113,8,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+27,8,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+269,16,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+183,12,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+225,16,18-24,BLACK,M,Lexington Av(456),Upper Manhattan
+222,0,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+246,4,65+,WHITE,M,Lexington Av(456),Bronx
+213,0,45-64,BLACK,M,Lexington Av(456),Bronx
+263,12,65+,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+134,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+96,16,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+88,8,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+234,16,<18,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+273,12,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+136,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+218,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+106,12,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Bronx
+53,12,25-44,BLACK HISPANIC,F,Lexington Av(456),Bronx
+7,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+159,8,25-44,BLACK,M,Lexington Av(456),Bronx
+65,0,25-44,BLACK,M,Lexington Av(456),Bronx
+83,12,<18,WHITE HISPANIC,M,Lexington Av(456),Bronx
+22,20,<18,BLACK HISPANIC,M,Lexington Av(456),Bronx
+5,8,65+,WHITE,M,Lexington Av(456),Bronx
+151,20,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+255,8,25-44,BLACK,M,Lexington Av(456),Bronx
+43,16,25-44,BLACK HISPANIC,M,Lexington Av(456),Bronx
+33,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Bronx
+269,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+43,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+224,8,45-64,BLACK,M,Lexington Av(456),Bronx
+163,8,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+174,12,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Bronx
+263,16,<18,WHITE,F,Lexington Av(456),Bronx
+108,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+57,12,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+53,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+25,4,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+80,16,<18,BLACK,M,Lexington Av(456),Upper Manhattan
+108,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+9,0,18-24,BLACK,F,Lexington Av(456),Bronx
+143,0,45-64,WHITE,M,Lexington Av(456),Upper Manhattan
+188,12,65+,WHITE,F,Lexington Av(456),Upper Manhattan
+174,20,25-44,WHITE,M,Lexington Av(456),Upper Manhattan
+70,16,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+53,8,25-44,WHITE,M,Lexington Av(456),Upper Manhattan
+16,12,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+185,20,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+79,12,45-64,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+92,12,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+162,20,18-24,WHITE,M,Lexington Av(456),Upper Manhattan
+71,20,45-64,BLACK,F,Lexington Av(456),Lower Manhattan
+175,8,25-44,BLACK,F,Lexington Av(456),Lower Manhattan
+176,4,25-44,BLACK,M,Lexington Av(456),Lower Manhattan
+260,20,45-64,BLACK,F,Lexington Av(456),Lower Manhattan
+47,12,18-24,BLACK,F,Lexington Av(456),Lower Manhattan
+255,8,45-64,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+268,4,65+,BLACK,M,Lexington Av(456),Lower Manhattan
+101,16,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+121,0,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+19,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+92,20,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+118,4,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+146,20,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+215,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+264,16,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+20,4,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+76,20,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+204,4,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+221,12,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+76,0,18-24,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+115,0,18-24,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+267,16,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+65,4,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+109,16,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+155,12,45-64,WHITE,M,Lexington Av(456),Lower Manhattan
+30,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+39,0,25-44,WHITE,M,Lexington Av(456),Lower Manhattan
+161,16,45-64,WHITE,F,Lexington Av(456),Lower Manhattan
+30,0,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Lower Manhattan
+41,16,18-24,WHITE,F,Lexington Av(456),Lower Manhattan
+141,16,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Lower Manhattan
+134,4,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Lower Manhattan
+119,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Lower Manhattan
+58,16,25-44,BLACK,M,Lexington Av(456),Lower Manhattan
+161,20,<18,BLACK,F,Lexington Av(456),Lower Manhattan
+78,12,25-44,WHITE,M,Lexington Av(456),Lower Manhattan
+83,16,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Lower Manhattan
+271,4,45-64,WHITE,M,Lexington Av(456),Lower Manhattan
+66,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+261,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+205,16,18-24,WHITE,F,Lexington Av(456),Lower Manhattan
+137,0,25-44,WHITE,M,Lexington Av(456),Lower Manhattan
+219,4,25-44,WHITE,M,Lexington Av(456),Lower Manhattan
+192,16,<18,WHITE,M,Lexington Av(456),Lower Manhattan
+172,16,45-64,BLACK,M,Lexington Av(456),Lower Manhattan
+258,16,25-44,WHITE,M,Lexington Av(456),Lower Manhattan
+48,20,18-24,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+120,8,18-24,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Lower Manhattan
+181,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+3,4,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+67,4,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+201,16,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+113,8,65+,WHITE,M,Lexington Av(456),Middle Manhattan
+8,12,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+103,12,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+45,12,45-64,WHITE,M,Lexington Av(456),Middle Manhattan
+23,20,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+48,20,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+252,16,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+219,12,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+97,16,18-24,BLACK HISPANIC,M,Lexington Av(456),Middle Manhattan
+269,0,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+109,12,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+203,12,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+199,16,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+34,20,18-24,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+104,16,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+176,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+100,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+214,8,45-64,WHITE,M,Lexington Av(456),Middle Manhattan
+8,16,65+,WHITE,M,Lexington Av(456),Middle Manhattan
+117,12,<18,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+198,20,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+10,20,18-24,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+199,16,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+246,16,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+52,20,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+141,20,25-44,BLACK HISPANIC,M,Lexington Av(456),Middle Manhattan
+196,20,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+237,0,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+97,16,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+119,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+196,12,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+81,16,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+99,12,45-64,WHITE,M,Lexington Av(456),Middle Manhattan
+160,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+93,8,45-64,WHITE,M,Lexington Av(456),Middle Manhattan
+57,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+46,20,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+186,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+43,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+109,16,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+89,16,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+257,0,18-24,BLACK,F,Lexington Av(456),Middle Manhattan
+143,4,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+114,12,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+211,16,<18,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+44,16,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+227,16,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+172,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+175,12,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+254,16,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+237,12,18-24,BLACK,M,Broadway(NQRW),Lower Manhattan
+142,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+168,8,25-44,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+185,20,18-24,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+232,0,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+50,16,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+211,16,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+218,12,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+198,12,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+254,16,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+178,16,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+89,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+172,20,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+187,12,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+248,0,18-24,WHITE,M,Broadway(NQRW),Lower Manhattan
+201,16,18-24,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+123,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+253,12,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+233,0,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+139,20,45-64,WHITE,F,Broadway(NQRW),Lower Manhattan
+248,8,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+231,8,18-24,WHITE,F,Broadway(NQRW),Lower Manhattan
+233,20,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+132,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+262,4,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+73,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+185,4,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+242,20,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+272,16,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+237,20,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+241,16,18-24,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+190,16,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+43,8,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+38,20,25-44,BLACK HISPANIC,M,Broadway(NQRW),Middle Manhattan
+68,12,45-64,BLACK HISPANIC,M,Broadway(NQRW),Middle Manhattan
+38,20,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+19,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+207,12,18-24,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+248,8,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+101,8,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+241,12,18-24,WHITE,F,Broadway(NQRW),Middle Manhattan
+249,16,18-24,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+22,20,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+131,8,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+89,12,65+,WHITE,M,Broadway(NQRW),Middle Manhattan
+62,20,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+149,16,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+88,0,18-24,BLACK,M,Broadway(NQRW),Middle Manhattan
+61,4,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+61,4,25-44,BLACK HISPANIC,M,Broadway(NQRW),Middle Manhattan
+171,0,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+103,8,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+265,4,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+76,8,65+,WHITE,M,Broadway(NQRW),Middle Manhattan
+204,12,18-24,WHITE,F,Broadway(NQRW),Middle Manhattan
+137,12,18-24,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+45,20,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+21,16,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+169,16,45-64,BLACK HISPANIC,F,Broadway(NQRW),Middle Manhattan
+92,8,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+105,8,<18,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+153,12,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+150,4,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+235,12,65+,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+113,8,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+71,12,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+250,12,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+205,4,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+215,16,25-44,BLACK HISPANIC,M,Broadway(NQRW),Middle Manhattan
+159,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+180,20,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+184,4,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+253,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+232,20,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+268,12,25-44,BLACK,M,6 Avenue(BDFM),Upper Manhattan
+224,0,18-24,BLACK,M,6 Avenue(BDFM),Upper Manhattan
+31,16,25-44,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+124,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+63,20,25-44,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+219,8,25-44,WHITE,M,6 Avenue(BDFM),Upper Manhattan
+78,20,45-64,BLACK,M,6 Avenue(BDFM),Upper Manhattan
+57,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+147,16,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+265,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+176,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+248,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+266,12,45-64,BLACK HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+215,12,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+118,20,18-24,BLACK,M,6 Avenue(BDFM),Upper Manhattan
+147,16,18-24,BLACK HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+212,12,18-24,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+246,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+268,20,25-44,WHITE,F,6 Avenue(BDFM),Upper Manhattan
+209,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+31,16,25-44,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+176,20,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+140,8,18-24,BLACK,F,Lexington Av(456),Bronx
+135,8,45-64,BLACK HISPANIC,M,Lexington Av(456),Bronx
+41,20,25-44,WHITE HISPANIC,F,Lexington Av(456),Bronx
+213,4,25-44,BLACK,F,Lexington Av(456),Bronx
+222,8,45-64,BLACK,F,Lexington Av(456),Bronx
+239,20,45-64,BLACK,M,Lexington Av(456),Bronx
+232,0,25-44,BLACK,M,Lexington Av(456),Bronx
+125,16,25-44,BLACK,F,Lexington Av(456),Bronx
+79,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+55,16,<18,BLACK,M,Lexington Av(456),Bronx
+79,0,25-44,BLACK,F,Lexington Av(456),Bronx
+131,0,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+243,0,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+137,8,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+189,4,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+159,4,45-64,AMERICAN INDIAN/ALASKAN NATIVE,M,Lexington Av(456),Middle Manhattan
+179,4,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+181,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+72,16,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+67,16,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+146,12,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+264,8,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+102,16,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+170,20,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+118,8,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+130,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+175,0,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+200,20,<18,BLACK,F,Lexington Av(456),Middle Manhattan
+160,0,18-24,BLACK,M,Lexington Av(456),Middle Manhattan
+29,20,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+154,8,<18,BLACK,M,Lexington Av(456),Middle Manhattan
+100,12,18-24,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+192,20,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+86,8,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+164,0,65+,BLACK HISPANIC,M,Lexington Av(456),Middle Manhattan
+37,0,45-64,BLACK HISPANIC,F,Lexington Av(456),Middle Manhattan
+175,12,65+,BLACK HISPANIC,M,Lexington Av(456),Middle Manhattan
+234,4,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+87,4,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+175,0,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+273,8,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+100,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+152,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+168,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+38,20,45-64,WHITE HISPANIC,F,Lexington Av(456),Lower Manhattan
+112,8,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Lower Manhattan
+114,0,45-64,WHITE,M,Lexington Av(456),Lower Manhattan
+122,8,65+,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+29,16,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+230,8,18-24,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+108,12,18-24,BLACK,F,Lexington Av(456),Upper Manhattan
+143,12,25-44,WHITE,F,Lexington Av(456),Upper Manhattan
+209,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+51,20,25-44,WHITE,M,Lexington Av(456),Upper Manhattan
+118,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+250,8,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+146,0,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+192,0,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+119,16,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+220,0,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+105,16,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+169,16,18-24,BLACK,F,Lexington Av(456),Upper Manhattan
+175,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+43,12,25-44,WHITE,F,Lexington Av(456),Upper Manhattan
+163,0,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+70,16,<18,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+51,12,18-24,WHITE,F,Lexington Av(456),Lower Manhattan
+235,16,25-44,WHITE,F,Lexington Av(456),Lower Manhattan
+229,12,65+,BLACK,F,Lexington Av(456),Lower Manhattan
+82,12,25-44,WHITE,F,Lexington Av(456),Lower Manhattan
+240,8,45-64,WHITE,F,Lexington Av(456),Lower Manhattan
+8,4,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Lower Manhattan
+268,0,18-24,BLACK HISPANIC,M,Lexington Av(456),Lower Manhattan
+241,12,25-44,WHITE,F,Lexington Av(456),Lower Manhattan
+196,4,25-44,BLACK,M,Lexington Av(456),Lower Manhattan
+169,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+208,16,25-44,BLACK,F,Lexington Av(456),Lower Manhattan
+63,4,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+86,20,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+195,8,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+95,8,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+172,16,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+135,4,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+15,4,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+110,8,18-24,BLACK HISPANIC,F,Lexington Av(456),Middle Manhattan
+225,16,18-24,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+254,20,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+95,8,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+6,16,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+112,8,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+239,12,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+188,4,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+39,12,65+,WHITE,F,Lexington Av(456),Middle Manhattan
+221,16,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+208,16,18-24,BLACK,F,Lexington Av(456),Middle Manhattan
+272,12,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+71,20,25-44,BLACK,M,Lexington Av(456),Middle Manhattan
+231,16,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+84,20,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+230,16,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+69,16,18-24,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+146,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+131,20,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+26,8,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+137,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+146,8,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+94,20,18-24,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+222,16,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+25,12,65+,WHITE,M,Lexington Av(456),Middle Manhattan
+153,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+257,4,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+257,0,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+99,16,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+70,8,25-44,BLACK HISPANIC,F,Lexington Av(456),Middle Manhattan
+246,4,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+36,16,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+230,4,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+265,12,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+36,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+99,20,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+111,20,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+132,8,18-24,BLACK,F,Lexington Av(456),Middle Manhattan
+207,20,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+73,20,65+,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+34,8,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+90,4,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+224,20,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+258,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+135,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+221,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+97,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+225,4,18-24,WHITE,F,Lexington Av(456),Middle Manhattan
+244,0,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+198,8,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+222,12,25-44,WHITE,M,Lexington Av(456),Middle Manhattan
+238,0,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+105,8,25-44,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Middle Manhattan
+42,8,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+45,12,45-64,WHITE,M,Lexington Av(456),Middle Manhattan
+171,12,25-44,WHITE,F,Lexington Av(456),Middle Manhattan
+90,0,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Middle Manhattan
+85,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Middle Manhattan
+107,12,45-64,BLACK,F,Lexington Av(456),Middle Manhattan
+64,16,25-44,BLACK,F,Lexington Av(456),Middle Manhattan
+93,16,25-44,BLACK HISPANIC,M,Lexington Av(456),Middle Manhattan
+30,8,45-64,WHITE HISPANIC,F,Lexington Av(456),Middle Manhattan
+93,16,45-64,BLACK,M,Lexington Av(456),Middle Manhattan
+109,8,45-64,WHITE,F,Lexington Av(456),Middle Manhattan
+134,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+40,8,25-44,WHITE,F,Lexington Av(456),Lower Manhattan
+165,16,65+,BLACK,F,Lexington Av(456),Lower Manhattan
+183,8,18-24,WHITE,F,Lexington Av(456),Lower Manhattan
+134,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+213,20,25-44,BLACK HISPANIC,M,Lexington Av(456),Lower Manhattan
+219,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+149,12,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+223,0,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Upper Manhattan
+127,4,45-64,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+63,0,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+249,0,18-24,BLACK,M,Lexington Av(456),Upper Manhattan
+265,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+177,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+215,16,18-24,AMERICAN INDIAN/ALASKAN NATIVE,M,Lexington Av(456),Bronx
+179,0,65+,WHITE,F,Lexington Av(456),Bronx
+259,20,45-64,BLACK,F,Lexington Av(456),Bronx
+88,8,45-64,BLACK,M,Lexington Av(456),Bronx
+78,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+82,20,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+228,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+105,12,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+258,16,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+210,20,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+230,8,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+139,16,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+160,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+172,12,25-44,BLACK HISPANIC,F,Lexington Av(456),Upper Manhattan
+250,20,25-44,WHITE,M,Lexington Av(456),Upper Manhattan
+231,12,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+250,20,45-64,WHITE,M,Lexington Av(456),Upper Manhattan
+157,0,<18,WHITE HISPANIC,F,Lexington Av(456),Bronx
+127,20,18-24,WHITE HISPANIC,F,Lexington Av(456),Bronx
+214,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+271,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+82,20,45-64,BLACK,F,Lexington Av(456),Upper Manhattan
+273,12,45-64,BLACK,F,Lexington Av(456),Upper Manhattan
+46,20,18-24,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+181,8,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+37,20,18-24,BLACK,F,Lexington Av(456),Upper Manhattan
+140,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+36,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+257,0,18-24,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+56,12,45-64,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+64,12,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+116,4,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Upper Manhattan
+203,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+156,0,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+264,4,25-44,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+220,8,25-44,BLACK,F,Lexington Av(456),Upper Manhattan
+232,12,45-64,WHITE HISPANIC,F,Lexington Av(456),Upper Manhattan
+31,16,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+266,0,18-24,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Upper Manhattan
+189,8,45-64,BLACK,M,Lexington Av(456),Upper Manhattan
+217,12,65+,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+271,16,18-24,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+126,20,25-44,BLACK,M,Lexington Av(456),Upper Manhattan
+102,8,18-24,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+20,16,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+18,8,25-44,WHITE,F,Lexington Av(456),Upper Manhattan
+96,20,25-44,WHITE HISPANIC,F,Lexington Av(456),Bronx
+256,4,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+240,0,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+114,20,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+139,8,18-24,WHITE HISPANIC,F,Lexington Av(456),Bronx
+164,4,25-44,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+228,4,25-44,WHITE,M,Lexington Av(456),Bronx
+268,4,25-44,BLACK HISPANIC,M,Lexington Av(456),Bronx
+190,8,18-24,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+97,4,45-64,BLACK HISPANIC,F,Lexington Av(456),Bronx
+181,12,45-64,WHITE HISPANIC,F,Lexington Av(456),Bronx
+22,12,18-24,WHITE HISPANIC,M,Lexington Av(456),Bronx
+161,4,18-24,BLACK,F,Lexington Av(456),Bronx
+25,16,25-44,BLACK,M,Lexington Av(456),Bronx
+43,4,45-64,BLACK,M,Lexington Av(456),Bronx
+268,20,18-24,BLACK,F,Lexington Av(456),Bronx
+210,16,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+236,8,25-44,BLACK,M,Lexington Av(456),Bronx
+187,4,25-44,WHITE HISPANIC,F,Lexington Av(456),Bronx
+263,12,18-24,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+15,16,25-44,BLACK HISPANIC,M,Lexington Av(456),Bronx
+55,12,25-44,WHITE HISPANIC,M,Lexington Av(456),Bronx
+210,16,25-44,WHITE,F,Lexington Av(456),Bronx
+259,20,45-64,WHITE HISPANIC,M,Lexington Av(456),Lower Manhattan
+240,0,25-44,BLACK HISPANIC,M,Lexington Av(456),Lower Manhattan
+198,4,25-44,BLACK,M,Lexington Av(456),Bronx
+71,4,45-64,WHITE HISPANIC,M,Lexington Av(456),Bronx
+147,16,45-64,WHITE HISPANIC,F,Lexington Av(456),Bronx
+244,8,45-64,BLACK,F,Lexington Av(456),Bronx
+106,16,<18,WHITE,F,Lexington Av(456),Bronx
+179,12,45-64,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Bronx
+259,8,45-64,BLACK HISPANIC,M,Lexington Av(456),Bronx
+165,8,18-24,BLACK,F,Lexington Av(456),Bronx
+118,12,45-64,BLACK,F,Lexington Av(456),Bronx
+172,12,25-44,BLACK,F,Lexington Av(456),Bronx
+91,4,25-44,WHITE HISPANIC,F,Lexington Av(456),Bronx
+220,0,25-44,BLACK HISPANIC,F,Lexington Av(456),Bronx
+240,16,<18,ASIAN / PACIFIC ISLANDER,F,Lexington Av(456),Bronx
+185,0,18-24,WHITE HISPANIC,M,Lexington Av(456),Bronx
+207,8,45-64,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+207,8,25-44,WHITE HISPANIC,M,Lexington Av(456),Upper Manhattan
+252,8,25-44,BLACK HISPANIC,M,Lexington Av(456),Upper Manhattan
+177,12,18-24,WHITE HISPANIC,F,Lexington Av(456),Bronx
+51,0,18-24,WHITE,M,Lexington Av(456),Bronx
+26,20,45-64,ASIAN / PACIFIC ISLANDER,M,Lexington Av(456),Bronx
+193,0,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+162,8,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+89,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+80,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+138,20,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+93,0,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+88,8,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+205,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+194,16,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+126,0,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+11,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+91,4,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+193,12,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+28,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+43,8,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+136,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+250,0,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+59,20,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+186,4,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+248,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+198,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+20,4,45-64,WHITE HISPANIC,F,Flushing(7),Queen
+86,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+82,8,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+172,8,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+227,4,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+239,20,25-44,BLACK HISPANIC,M,Flushing(7),Queen
+229,12,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+241,0,25-44,BLACK,M,Flushing(7),Queen
+135,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+159,16,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+48,16,18-24,WHITE HISPANIC,F,Flushing(7),Queen
+161,20,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+239,16,18-24,WHITE HISPANIC,F,Flushing(7),Queen
+174,16,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+147,16,65+,WHITE HISPANIC,M,Flushing(7),Queen
+156,4,45-64,WHITE HISPANIC,M,Flushing(7),Middle Manhattan
+210,16,45-64,WHITE,M,Flushing(7),Middle Manhattan
+219,0,18-24,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Middle Manhattan
+269,4,45-64,BLACK,M,Flushing(7),Lower Manhattan
+153,20,25-44,BLACK,M,Flushing(7),Lower Manhattan
+212,0,45-64,WHITE,M,Flushing(7),Lower Manhattan
+78,12,<18,WHITE HISPANIC,M,Flushing(7),Middle Manhattan
+143,12,18-24,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Middle Manhattan
+213,4,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Middle Manhattan
+236,20,18-24,AMERICAN INDIAN/ALASKAN NATIVE,F,Flushing(7),Middle Manhattan
+136,16,25-44,WHITE,F,Flushing(7),Middle Manhattan
+50,4,25-44,WHITE,F,Flushing(7),Middle Manhattan
+219,0,25-44,BLACK HISPANIC,M,Flushing(7),Middle Manhattan
+170,12,<18,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Middle Manhattan
+238,12,45-64,WHITE HISPANIC,M,Flushing(7),Middle Manhattan
+267,20,65+,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Middle Manhattan
+75,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+33,20,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+47,8,45-64,WHITE,F,Flushing(7),Queen
+263,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+133,20,65+,WHITE HISPANIC,F,Flushing(7),Queen
+112,12,25-44,BLACK,F,Flushing(7),Queen
+150,0,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+191,16,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+173,4,25-44,BLACK HISPANIC,F,Flushing(7),Queen
+259,4,45-64,WHITE HISPANIC,F,Flushing(7),Queen
+203,20,45-64,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+92,20,65+,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+210,20,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+80,20,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+133,16,25-44,BLACK HISPANIC,F,Flushing(7),Queen
+177,0,45-64,BLACK,M,Flushing(7),Queen
+223,4,45-64,WHITE HISPANIC,F,Flushing(7),Queen
+138,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+79,12,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+62,16,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+265,16,18-24,BLACK HISPANIC,M,Flushing(7),Queen
+196,16,18-24,WHITE,M,Flushing(7),Queen
+180,12,18-24,WHITE HISPANIC,M,Flushing(7),Queen
+83,16,45-64,WHITE,F,Flushing(7),Queen
+92,12,18-24,WHITE HISPANIC,M,Flushing(7),Queen
+185,20,65+,BLACK,F,Flushing(7),Queen
+15,16,45-64,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+156,12,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+198,12,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+14,16,25-44,BLACK,F,Flushing(7),Queen
+227,0,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+255,12,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+227,20,18-24,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+35,20,25-44,BLACK,F,Flushing(7),Queen
+191,8,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+99,16,45-64,WHITE HISPANIC,F,Flushing(7),Queen
+231,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+199,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+227,20,18-24,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+111,4,18-24,WHITE HISPANIC,F,Flushing(7),Queen
+260,16,<18,WHITE HISPANIC,F,Flushing(7),Queen
+253,20,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+179,8,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+259,16,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+211,20,25-44,WHITE HISPANIC,M,Flushing(7),Middle Manhattan
+106,20,25-44,WHITE,M,Flushing(7),Middle Manhattan
+183,16,45-64,WHITE HISPANIC,F,Flushing(7),Middle Manhattan
+255,4,25-44,WHITE HISPANIC,F,Flushing(7),Middle Manhattan
+124,8,25-44,WHITE HISPANIC,F,Flushing(7),Middle Manhattan
+74,8,65+,WHITE,M,Flushing(7),Middle Manhattan
+210,4,25-44,BLACK HISPANIC,M,Flushing(7),Middle Manhattan
+256,8,18-24,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+267,8,<18,WHITE HISPANIC,M,Flushing(7),Queen
+214,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+150,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+257,8,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+258,4,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+167,0,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+164,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+235,4,45-64,WHITE HISPANIC,F,Flushing(7),Queen
+61,12,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+11,0,25-44,BLACK,F,Flushing(7),Queen
+20,0,18-24,BLACK,M,Flushing(7),Queen
+268,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+229,20,65+,WHITE HISPANIC,F,Flushing(7),Queen
+9,16,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+268,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+224,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+245,8,45-64,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Middle Manhattan
+259,16,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+255,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+19,16,18-24,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+151,20,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+109,20,18-24,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+79,12,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+242,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+227,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+225,20,45-64,BLACK,M,Flushing(7),Queen
+92,20,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+84,16,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+210,4,45-64,BLACK,F,Flushing(7),Queen
+53,20,18-24,WHITE HISPANIC,F,Flushing(7),Queen
+207,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+73,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+167,0,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+158,0,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+64,12,25-44,WHITE HISPANIC,F,Flushing(7),Queen
+10,12,25-44,ASIAN / PACIFIC ISLANDER,M,Flushing(7),Queen
+187,8,18-24,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+261,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+227,20,45-64,BLACK,M,Flushing(7),Queen
+207,4,45-64,WHITE HISPANIC,M,Flushing(7),Queen
+82,8,25-44,ASIAN / PACIFIC ISLANDER,F,Flushing(7),Queen
+130,0,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+12,16,25-44,BLACK HISPANIC,M,Flushing(7),Queen
+213,4,25-44,WHITE HISPANIC,M,Flushing(7),Queen
+90,20,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+167,16,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+40,8,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+124,12,45-64,WHITE,F,Broadway(NQRW),Middle Manhattan
+104,12,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+138,12,18-24,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+9,12,18-24,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+19,12,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+30,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+178,12,18-24,BLACK HISPANIC,M,Broadway(NQRW),Middle Manhattan
+136,12,65+,WHITE,F,8 Avenue(ACE),Queen
+43,16,<18,WHITE,M,8 Avenue(ACE),Upper Manhattan
+175,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+61,12,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+24,12,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+164,0,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Upper Manhattan
+43,8,65+,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+10,8,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+124,12,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+6,16,45-64,AMERICAN INDIAN/ALASKAN NATIVE,F,8 Avenue(ACE),Upper Manhattan
+89,16,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+255,4,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+239,20,18-24,BLACK,M,8 Avenue(ACE),Upper Manhattan
+180,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+158,4,25-44,BLACK,F,8 Avenue(ACE),Upper Manhattan
+215,8,65+,WHITE,F,8 Avenue(ACE),Upper Manhattan
+44,0,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+131,20,25-44,BLACK,M,8 Avenue(ACE),Queen
+142,0,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+35,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+227,4,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+230,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+197,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+71,12,45-64,WHITE,F,8 Avenue(ACE),Rockaway Beach
+90,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+157,12,25-44,BLACK,F,8 Avenue(ACE),Rockaway Beach
+23,0,25-44,BLACK,F,8 Avenue(ACE),Rockaway Beach
+76,0,25-44,BLACK,M,8 Avenue(ACE),Rockaway Beach
+108,0,45-64,BLACK,M,8 Avenue(ACE),Rockaway Beach
+198,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+25,12,25-44,BLACK,M,8 Avenue(ACE),Rockaway Beach
+188,4,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+80,8,45-64,BLACK,M,8 Avenue(ACE),Rockaway Beach
+205,0,18-24,BLACK,M,8 Avenue(ACE),Rockaway Beach
+152,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+90,0,25-44,BLACK,M,8 Avenue(ACE),Rockaway Beach
+179,20,18-24,BLACK,F,8 Avenue(ACE),Rockaway Beach
+185,20,18-24,BLACK,M,8 Avenue(ACE),Rockaway Beach
+212,16,25-44,WHITE,M,8 Avenue(ACE),Rockaway Beach
+144,20,45-64,BLACK,F,8 Avenue(ACE),Rockaway Beach
+103,0,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+242,4,25-44,WHITE,M,8 Avenue(ACE),Rockaway Beach
+97,8,65+,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Rockaway Beach
+103,0,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+103,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+214,4,65+,BLACK,F,8 Avenue(ACE),Queen
+205,4,45-64,BLACK,F,8 Avenue(ACE),Queen
+211,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+244,0,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+208,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+203,4,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen
+227,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+7,20,18-24,BLACK,F,8 Avenue(ACE),Queen
+20,20,25-44,BLACK,M,8 Avenue(ACE),Queen
+259,4,25-44,WHITE,F,8 Avenue(ACE),Queen
+195,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+51,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+139,8,25-44,BLACK,F,8 Avenue(ACE),Upper Manhattan
+39,0,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+18,12,<18,WHITE,F,8 Avenue(ACE),Upper Manhattan
+203,12,<18,WHITE,M,8 Avenue(ACE),Upper Manhattan
+144,16,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+153,4,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+19,8,25-44,BLACK,F,8 Avenue(ACE),Queen
+188,20,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+176,16,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+125,20,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Queen
+57,8,25-44,BLACK,M,8 Avenue(ACE),Queen
+178,16,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Queen
+78,8,25-44,BLACK,M,8 Avenue(ACE),Queen
+193,16,45-64,BLACK,F,8 Avenue(ACE),Queen
+28,20,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+147,8,25-44,BLACK,F,8 Avenue(ACE),Queen
+232,20,25-44,BLACK,F,8 Avenue(ACE),Upper Manhattan
+202,16,65+,BLACK,M,8 Avenue(ACE),Upper Manhattan
+203,20,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+244,20,45-64,BLACK,F,8 Avenue(ACE),Upper Manhattan
+203,20,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+189,4,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+151,4,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+139,16,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+20,12,25-44,BLACK,F,8 Avenue(ACE),Upper Manhattan
+166,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+246,16,25-44,WHITE,F,8 Avenue(ACE),Upper Manhattan
+134,16,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+140,4,45-64,WHITE,F,8 Avenue(ACE),Upper Manhattan
+72,4,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+187,20,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+122,20,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+43,12,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+24,12,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+234,16,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+19,12,18-24,WHITE,F,8 Avenue(ACE),Upper Manhattan
+195,0,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+93,0,18-24,BLACK,M,8 Avenue(ACE),Upper Manhattan
+102,0,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+56,20,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+212,0,45-64,WHITE,F,8 Avenue(ACE),Upper Manhattan
+175,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Upper Manhattan
+95,16,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+221,20,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+235,16,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+170,0,45-64,BLACK,M,8 Avenue(ACE),Upper Manhattan
+5,16,18-24,BLACK,M,8 Avenue(ACE),Upper Manhattan
+265,12,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+174,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+147,12,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+271,16,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+156,20,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+254,12,<18,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+179,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+272,20,18-24,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+95,20,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+177,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+219,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+127,8,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+163,16,65+,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+64,16,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+166,20,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+163,16,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+38,16,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+240,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+164,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+227,0,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+273,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+34,20,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+30,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+79,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+152,20,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+255,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+138,20,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+199,8,18-24,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+184,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+198,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+225,16,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+121,16,65+,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+83,8,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+157,16,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+160,4,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+54,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+272,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+178,8,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+175,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+53,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+45,16,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+269,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+164,20,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+268,16,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+168,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+235,20,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+204,8,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+160,8,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+143,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+64,0,25-44,BLACK,F,8 Avenue(ACE),Queen
+28,12,25-44,BLACK,F,8 Avenue(ACE),Queen
+229,20,45-64,BLACK,F,8 Avenue(ACE),Queen
+64,0,25-44,BLACK,M,8 Avenue(ACE),Queen
+168,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+6,12,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Queen
+27,12,25-44,BLACK,F,8 Avenue(ACE),Queen
+42,4,25-44,WHITE,M,8 Avenue(ACE),Queen
+43,20,45-64,BLACK,M,8 Avenue(ACE),Queen
+55,12,25-44,BLACK,M,8 Avenue(ACE),Queen
+219,0,25-44,BLACK,M,8 Avenue(ACE),Queen
+197,16,45-64,BLACK,F,8 Avenue(ACE),Queen
+35,0,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+141,16,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+38,12,<18,BLACK,F,8 Avenue(ACE),Lower Manhattan
+229,16,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+213,20,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+123,8,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+16,4,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+154,12,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+79,20,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+68,12,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+131,4,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+160,16,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+198,16,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+10,20,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+219,20,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+195,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+10,12,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+222,4,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+195,12,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+13,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+18,12,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+139,8,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+119,20,65+,BLACK,M,8 Avenue(ACE),Lower Manhattan
+16,12,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+258,8,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+221,16,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+200,12,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+197,4,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+196,20,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+228,12,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+56,0,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+57,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+240,20,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+126,16,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+219,16,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+7,4,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+117,12,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+116,20,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+67,4,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+67,20,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+258,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+257,20,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+209,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+258,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+137,12,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+95,8,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+156,12,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+218,12,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+186,4,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+205,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+166,16,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+248,12,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+152,12,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+223,4,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+267,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+242,8,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+209,12,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+9,20,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+186,0,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+122,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+44,4,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+247,16,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+256,8,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+105,8,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+166,20,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+15,8,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+6,12,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+64,20,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+41,20,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+223,16,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+139,20,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+222,12,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+62,8,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+230,8,65+,BLACK,M,8 Avenue(ACE),Lower Manhattan
+72,16,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+27,20,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+179,12,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+33,8,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+251,12,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+259,12,45-64,BLACK HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+109,16,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+37,16,65+,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+267,4,<18,BLACK,F,8 Avenue(ACE),Lower Manhattan
+47,8,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+30,16,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+235,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+208,20,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+256,4,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+139,12,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+14,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+180,16,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+84,12,25-44,AMERICAN INDIAN/ALASKAN NATIVE,F,8 Avenue(ACE),Lower Manhattan
+133,12,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+190,20,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+230,4,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+43,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+92,20,<18,BLACK,F,8 Avenue(ACE),Lower Manhattan
+228,4,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+6,16,65+,BLACK,F,8 Avenue(ACE),Lower Manhattan
+102,20,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+174,8,65+,WHITE,F,8 Avenue(ACE),Middle Manhattan
+29,12,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+244,12,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+128,20,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+113,20,25-44,WHITE,M,8 Avenue(ACE),Middle Manhattan
+238,16,45-64,BLACK,M,8 Avenue(ACE),Middle Manhattan
+29,16,45-64,BLACK,M,8 Avenue(ACE),Middle Manhattan
+150,12,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+126,16,65+,BLACK HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+93,20,18-24,WHITE,F,8 Avenue(ACE),Middle Manhattan
+256,8,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+269,4,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+229,16,65+,BLACK HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+238,12,65+,WHITE,F,8 Avenue(ACE),Middle Manhattan
+216,0,25-44,BLACK,M,8 Avenue(ACE),Middle Manhattan
+171,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+173,12,65+,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+171,8,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+122,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+152,16,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+155,20,18-24,BLACK,F,8 Avenue(ACE),Middle Manhattan
+258,20,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+180,20,45-64,BLACK,F,8 Avenue(ACE),Middle Manhattan
+116,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+138,12,65+,WHITE,M,8 Avenue(ACE),Middle Manhattan
+166,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+11,16,<18,BLACK,M,8 Avenue(ACE),Middle Manhattan
+254,0,25-44,WHITE,M,8 Avenue(ACE),Middle Manhattan
+52,16,65+,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+11,16,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+133,8,25-44,BLACK,F,8 Avenue(ACE),Middle Manhattan
+254,0,25-44,WHITE,M,8 Avenue(ACE),Middle Manhattan
+67,20,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+84,20,25-44,WHITE,F,8 Avenue(ACE),Middle Manhattan
+119,16,65+,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Middle Manhattan
+47,16,18-24,BLACK HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+222,16,65+,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Middle Manhattan
+88,16,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+81,12,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+202,8,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+85,20,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+203,16,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+39,8,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+13,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+220,8,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+146,8,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+208,8,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+137,4,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+171,12,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+116,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+85,20,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+72,16,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+187,12,65+,WHITE,M,8 Avenue(ACE),Lower Manhattan
+41,4,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+98,16,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+141,8,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+106,12,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+187,16,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+264,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+222,20,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+68,20,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+121,8,18-24,WHITE,M,8 Avenue(ACE),Lower Manhattan
+174,8,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+250,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+208,8,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+234,20,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+165,20,45-64,AMERICAN INDIAN/ALASKAN NATIVE,M,8 Avenue(ACE),Lower Manhattan
+201,0,18-24,BLACK,F,8 Avenue(ACE),Lower Manhattan
+227,8,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+71,16,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+55,12,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+37,0,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+187,12,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+268,16,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+144,8,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+31,8,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+195,8,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+218,16,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+251,8,45-64,WHITE,M,8 Avenue(ACE),Lower Manhattan
+98,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+248,0,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+107,4,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+150,20,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+22,8,65+,WHITE,M,8 Avenue(ACE),Lower Manhattan
+228,8,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+106,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+230,12,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+158,16,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+272,8,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+243,8,25-44,BLACK,M,8 Avenue(ACE),Lower Manhattan
+120,12,<18,BLACK,M,8 Avenue(ACE),Lower Manhattan
+173,8,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+147,20,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+69,12,45-64,BLACK HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+221,8,<18,BLACK,F,8 Avenue(ACE),Lower Manhattan
+268,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+133,16,65+,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+113,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+233,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+170,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+20,20,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+142,12,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+246,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+221,20,45-64,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+69,8,18-24,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+133,16,18-24,AMERICAN INDIAN/ALASKAN NATIVE,F,8 Avenue(ACE),Queen-Brooklyn
+216,16,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+204,12,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+268,0,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+270,4,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+238,20,18-24,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+268,0,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+44,20,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+151,20,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+164,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+196,16,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+270,12,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen-Brooklyn
+152,12,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+210,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+63,8,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+228,12,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+85,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+40,8,18-24,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+130,12,65+,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+28,16,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+265,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+24,16,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+181,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+85,8,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+28,12,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+176,16,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+257,8,45-64,BLACK,M,8 Avenue(ACE),Rockaway Beach
+262,12,18-24,BLACK,F,8 Avenue(ACE),Rockaway Beach
+89,8,45-64,BLACK,M,8 Avenue(ACE),Rockaway Beach
+95,20,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Rockaway Beach
+156,16,<18,BLACK,F,8 Avenue(ACE),Rockaway Beach
+208,16,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+72,20,25-44,BLACK,F,8 Avenue(ACE),Rockaway Beach
+130,20,45-64,BLACK,M,8 Avenue(ACE),Rockaway Beach
+111,4,18-24,BLACK,F,8 Avenue(ACE),Rockaway Beach
+69,16,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+110,20,65+,BLACK HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+87,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Rockaway Beach
+38,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Rockaway Beach
+70,12,25-44,WHITE,F,8 Avenue(ACE),Middle Manhattan
+93,20,45-64,BLACK,F,8 Avenue(ACE),Middle Manhattan
+148,16,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+147,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+6,8,25-44,WHITE,F,8 Avenue(ACE),Upper Manhattan
+81,0,25-44,WHITE,M,8 Avenue(ACE),Upper Manhattan
+129,16,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+107,8,45-64,BLACK,F,8 Avenue(ACE),Middle Manhattan
+265,8,25-44,WHITE,F,8 Avenue(ACE),Middle Manhattan
+132,12,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+44,16,25-44,BLACK,F,8 Avenue(ACE),Middle Manhattan
+60,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+165,16,<18,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+186,16,18-24,BLACK HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+259,8,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+123,8,18-24,BLACK HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+129,12,<18,WHITE,F,6 Avenue(BDFM),Upper Manhattan
+94,16,25-44,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+114,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+165,12,45-64,WHITE,F,6 Avenue(BDFM),Upper Manhattan
+174,8,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+105,12,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+256,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Upper Manhattan
+262,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+42,16,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+142,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+14,16,25-44,WHITE,M,6 Avenue(BDFM),Bronx
+217,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Bronx
+47,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+9,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+106,0,65+,BLACK,F,6 Avenue(BDFM),Bronx
+101,4,45-64,BLACK,M,6 Avenue(BDFM),Bronx
+104,8,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+216,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+244,8,45-64,BLACK,F,6 Avenue(BDFM),Bronx
+73,20,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+273,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+142,16,18-24,BLACK,M,6 Avenue(BDFM),Bronx
+90,4,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+209,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+230,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+30,20,18-24,BLACK HISPANIC,M,6 Avenue(BDFM),Bronx
+250,12,18-24,WHITE,F,6 Avenue(BDFM),Bronx
+146,16,18-24,BLACK HISPANIC,F,6 Avenue(BDFM),Bronx
+122,4,25-44,BLACK,M,6 Avenue(BDFM),Bronx
+24,20,25-44,WHITE,M,6 Avenue(BDFM),Bronx
+220,16,65+,BLACK HISPANIC,F,6 Avenue(BDFM),Bronx
+248,12,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Bronx
+78,16,<18,BLACK HISPANIC,M,6 Avenue(BDFM),Bronx
+4,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+210,8,65+,BLACK HISPANIC,F,6 Avenue(BDFM),Bronx
+210,12,45-64,BLACK,M,6 Avenue(BDFM),Bronx
+52,12,45-64,BLACK,F,6 Avenue(BDFM),Bronx
+72,8,45-64,WHITE,M,6 Avenue(BDFM),Bronx
+142,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+257,0,45-64,BLACK,F,6 Avenue(BDFM),Bronx
+125,8,45-64,BLACK HISPANIC,F,6 Avenue(BDFM),Bronx
+75,20,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+19,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+189,12,65+,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+48,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+194,0,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+117,16,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+139,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+96,4,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+41,16,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+191,12,<18,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+250,20,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+175,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+139,16,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+2,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+61,12,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+25,12,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+243,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+77,12,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+76,16,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+128,12,65+,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+271,12,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+165,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+164,16,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+121,20,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+263,4,<18,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+70,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+214,8,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+190,16,25-44,WHITE,M,6 Avenue(BDFM),Upper Manhattan
+38,8,18-24,BLACK,F,6 Avenue(BDFM),Upper Manhattan
+248,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+118,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Upper Manhattan
+6,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+4,16,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+33,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+223,16,65+,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+271,16,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+151,16,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+29,8,45-64,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+147,12,25-44,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+239,16,18-24,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+116,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+37,8,25-44,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+104,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+12,16,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+76,20,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Middle Manhattan
+103,8,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Middle Manhattan
+42,8,65+,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+198,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+227,4,45-64,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+270,12,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+39,4,45-64,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+260,20,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+116,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+22,20,45-64,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+260,16,45-64,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+242,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+9,16,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+244,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+45,12,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+16,8,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+221,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+179,16,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+101,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+231,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+132,8,<18,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+180,16,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+209,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+139,12,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+259,8,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+44,16,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+176,0,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+203,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+269,20,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+85,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+108,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+19,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+45,16,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+179,0,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+127,8,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+47,16,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+185,4,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+25,16,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+24,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+207,16,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+254,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+207,12,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+227,20,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+24,12,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+186,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+269,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+242,16,18-24,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+158,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+251,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+157,12,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+244,12,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+176,0,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+240,12,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+54,16,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+54,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+14,4,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+92,20,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+234,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+17,4,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+114,20,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+238,8,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+184,0,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+148,4,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+212,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+150,8,65+,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+218,20,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+101,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+270,16,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+12,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+231,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+79,12,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+232,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+94,12,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+88,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+16,12,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+88,8,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+144,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+198,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+257,16,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+3,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+271,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+72,4,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+38,8,45-64,BLACK HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+126,8,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+184,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+150,8,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+243,16,<18,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+63,12,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+135,16,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+47,12,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+75,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+48,12,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+15,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+14,4,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+172,12,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+102,8,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+171,12,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+12,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+194,12,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+229,16,65+,WHITE,M,Broadway(NQRW),Lower Manhattan
+93,20,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+156,20,45-64,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+188,16,18-24,BLACK,M,Broadway(NQRW),Lower Manhattan
+14,16,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+32,12,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+147,12,65+,WHITE,M,Broadway(NQRW),Lower Manhattan
+78,0,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+148,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+128,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+163,8,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+117,16,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+10,12,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+151,16,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+157,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+144,0,25-44,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+102,16,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+34,16,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+172,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+270,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+47,8,65+,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+21,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+144,0,18-24,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+94,8,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+215,16,65+,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+267,8,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+131,16,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+53,0,45-64,WHITE,M,6 Avenue(BDFM),Brooklyn
+247,0,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+204,0,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+209,20,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+121,4,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+2,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+144,12,18-24,BLACK,F,6 Avenue(BDFM),Brooklyn
+82,16,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+252,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+110,12,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+113,12,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+5,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+27,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+85,20,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+244,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+143,4,45-64,BLACK,M,6 Avenue(BDFM),Brooklyn
+62,0,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+121,12,65+,BLACK,F,6 Avenue(BDFM),Brooklyn
+13,20,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+89,20,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+202,12,65+,BLACK,M,6 Avenue(BDFM),Brooklyn
+51,16,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+129,0,65+,BLACK,M,6 Avenue(BDFM),Brooklyn
+272,20,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+128,0,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+126,20,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+268,4,18-24,BLACK,M,6 Avenue(BDFM),Brooklyn
+133,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+135,12,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+34,12,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+225,16,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+66,16,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+214,20,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+214,20,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+234,16,65+,WHITE,F,6 Avenue(BDFM),Brooklyn
+180,16,18-24,BLACK HISPANIC,F,6 Avenue(BDFM),Brooklyn
+13,20,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+203,16,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+262,0,65+,WHITE,F,6 Avenue(BDFM),Brooklyn
+227,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+15,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+42,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+23,20,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+232,4,<18,BLACK,F,6 Avenue(BDFM),Brooklyn
+141,16,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+189,4,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+89,20,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+175,16,45-64,BLACK,M,6 Avenue(BDFM),Brooklyn
+262,4,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+142,20,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+190,4,45-64,WHITE HISPANIC,M,Shuttle(S),Brooklyn
+83,16,25-44,ASIAN / PACIFIC ISLANDER,F,Shuttle(S),Brooklyn
+167,8,25-44,WHITE,F,Shuttle(S),Brooklyn
+91,8,25-44,BLACK,F,Shuttle(S),Brooklyn
+62,8,25-44,WHITE HISPANIC,M,Shuttle(S),Brooklyn
+225,4,25-44,BLACK,F,Shuttle(S),Brooklyn
+158,12,25-44,WHITE HISPANIC,M,Shuttle(S),Brooklyn
+257,8,<18,BLACK,M,8 Avenue(ACE),Upper Manhattan
+183,16,18-24,WHITE,F,8 Avenue(ACE),Upper Manhattan
+151,20,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Upper Manhattan
+186,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+218,20,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+259,4,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+199,0,18-24,BLACK,F,8 Avenue(ACE),Upper Manhattan
+125,20,25-44,BLACK,M,8 Avenue(ACE),Upper Manhattan
+248,12,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+110,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Upper Manhattan
+145,16,18-24,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+145,4,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+99,20,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+72,16,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+11,8,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+160,4,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen-Brooklyn
+137,16,18-24,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+111,16,25-44,BLACK HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+189,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+107,16,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+214,12,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+36,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+111,16,<18,BLACK HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+78,8,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+139,16,45-64,BLACK,M,8 Avenue(ACE),Lower Manhattan
+111,12,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+19,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+233,16,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+211,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+82,12,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+199,0,18-24,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+51,4,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+242,0,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+21,16,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+21,16,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+256,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+245,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+200,4,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen-Brooklyn
+187,4,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+268,0,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+92,16,<18,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+118,20,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+221,16,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+125,12,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+262,12,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+132,16,<18,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+145,16,45-64,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+202,8,18-24,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+266,16,<18,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+195,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+33,20,25-44,WHITE,F,8 Avenue(ACE),Queen-Brooklyn
+120,8,18-24,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+241,4,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+232,8,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+252,8,25-44,WHITE,M,8 Avenue(ACE),Lower Manhattan
+24,12,45-64,WHITE,F,8 Avenue(ACE),Lower Manhattan
+259,0,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+208,4,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+210,12,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+220,8,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+226,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+18,12,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+151,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+232,0,45-64,BLACK HISPANIC,M,6 Avenue(BDFM),Brooklyn
+162,16,18-24,BLACK,M,6 Avenue(BDFM),Brooklyn
+201,0,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+254,4,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+220,16,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+177,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+269,0,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+155,4,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+212,20,18-24,WHITE,F,6 Avenue(BDFM),Brooklyn
+236,20,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+112,8,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Brooklyn
+108,16,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+158,0,45-64,BLACK,M,6 Avenue(BDFM),Brooklyn
+32,12,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Brooklyn
+265,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+198,8,65+,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+223,12,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+208,12,18-24,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+267,16,65+,BLACK,M,6 Avenue(BDFM),Bronx
+21,8,65+,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Bronx
+244,16,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Bronx
+41,8,45-64,BLACK,F,6 Avenue(BDFM),Bronx
+252,16,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Bronx
+25,8,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+200,16,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+91,0,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+271,16,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+101,20,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+59,20,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+142,16,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+233,20,25-44,BLACK,F,6 Avenue(BDFM),Bronx
+254,0,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Bronx
+71,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Bronx
+189,4,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+267,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+18,12,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+88,16,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+9,12,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+40,0,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+150,16,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+97,8,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+256,16,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+7,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+133,20,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+96,8,45-64,BLACK,F,6 Avenue(BDFM),Brooklyn
+229,0,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+178,0,45-64,BLACK,M,6 Avenue(BDFM),Brooklyn
+7,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+221,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+104,0,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+213,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+85,12,45-64,BLACK,M,6 Avenue(BDFM),Brooklyn
+255,0,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+253,8,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+127,8,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+118,20,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+76,4,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+88,16,18-24,BLACK,M,6 Avenue(BDFM),Brooklyn
+42,8,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+5,16,25-44,BLACK,F,6 Avenue(BDFM),Brooklyn
+1,20,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+232,16,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+36,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+183,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+34,8,25-44,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+77,12,45-64,BLACK,F,Broadway(NQRW),Brooklyn
+230,4,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+197,0,45-64,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+77,12,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+125,16,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+230,4,18-24,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+197,16,18-24,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+202,8,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+9,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+69,20,18-24,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+230,4,45-64,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+196,16,45-64,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+232,8,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+108,16,25-44,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+150,16,<18,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+38,8,25-44,BLACK,M,8 Avenue(ACE),Queen
+232,0,25-44,BLACK,M,8 Avenue(ACE),Queen
+126,20,25-44,BLACK,M,8 Avenue(ACE),Queen
+204,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+4,16,25-44,BLACK,F,8 Avenue(ACE),Queen
+43,8,25-44,BLACK,F,8 Avenue(ACE),Queen
+207,0,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+207,16,45-64,BLACK,M,8 Avenue(ACE),Queen
+157,16,45-64,BLACK,M,8 Avenue(ACE),Queen
+30,16,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+216,16,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+132,8,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen
+210,4,25-44,BLACK,M,8 Avenue(ACE),Queen
+129,4,45-64,BLACK,F,8 Avenue(ACE),Queen
+183,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+29,16,25-44,WHITE,M,8 Avenue(ACE),Queen
+149,4,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+153,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+201,16,25-44,BLACK,F,8 Avenue(ACE),Queen
+50,12,45-64,WHITE,M,8 Avenue(ACE),Queen
+138,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+138,20,65+,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+109,4,<18,WHITE,F,8 Avenue(ACE),Queen
+201,16,25-44,BLACK,M,8 Avenue(ACE),Queen
+268,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+130,8,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+101,12,45-64,WHITE,F,8 Avenue(ACE),Queen
+27,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+78,4,45-64,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen
+102,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+155,4,25-44,BLACK,F,8 Avenue(ACE),Queen
+137,8,25-44,BLACK HISPANIC,F,8 Avenue(ACE),Queen
+237,12,45-64,BLACK,F,6 Avenue(BDFM),Queen
+262,4,45-64,WHITE,F,6 Avenue(BDFM),Queen
+64,4,25-44,BLACK,F,6 Avenue(BDFM),Queen
+47,8,45-64,WHITE,F,6 Avenue(BDFM),Queen
+147,8,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+268,8,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+142,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+54,16,65+,WHITE,F,6 Avenue(BDFM),Queen
+254,4,25-44,BLACK,M,6 Avenue(BDFM),Queen
+224,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+42,12,45-64,BLACK,M,6 Avenue(BDFM),Queen
+8,20,45-64,BLACK,M,6 Avenue(BDFM),Queen
+87,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+73,16,45-64,WHITE,M,6 Avenue(BDFM),Queen
+114,8,45-64,BLACK,F,6 Avenue(BDFM),Queen
+77,20,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Queen
+7,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+103,0,45-64,BLACK,M,6 Avenue(BDFM),Queen
+69,8,18-24,BLACK,F,8 Avenue(ACE),Queen
+193,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+82,4,45-64,WHITE,M,8 Avenue(ACE),Queen
+138,16,25-44,BLACK,M,8 Avenue(ACE),Queen
+146,12,25-44,WHITE,M,8 Avenue(ACE),Queen
+177,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+273,12,25-44,BLACK,M,8 Avenue(ACE),Queen
+140,12,25-44,BLACK,M,8 Avenue(ACE),Queen
+207,8,25-44,WHITE,F,8 Avenue(ACE),Middle Manhattan
+74,8,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Middle Manhattan
+95,8,45-64,BLACK,M,8 Avenue(ACE),Middle Manhattan
+115,0,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+25,12,25-44,BLACK,M,8 Avenue(ACE),Middle Manhattan
+227,16,25-44,WHITE,F,8 Avenue(ACE),Middle Manhattan
+84,16,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+5,20,45-64,WHITE,F,8 Avenue(ACE),Middle Manhattan
+72,12,18-24,WHITE,F,8 Avenue(ACE),Middle Manhattan
+238,16,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+212,0,18-24,WHITE,M,8 Avenue(ACE),Middle Manhattan
+85,4,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+110,8,25-44,BLACK,F,8 Avenue(ACE),Middle Manhattan
+271,16,45-64,BLACK,F,8 Avenue(ACE),Middle Manhattan
+4,8,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+247,12,25-44,BLACK HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+247,12,25-44,WHITE,M,8 Avenue(ACE),Middle Manhattan
+55,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+77,8,45-64,WHITE,F,8 Avenue(ACE),Middle Manhattan
+270,20,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Middle Manhattan
+12,16,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+58,12,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+96,12,<18,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+29,0,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Middle Manhattan
+224,12,25-44,BLACK,F,8 Avenue(ACE),Middle Manhattan
+150,4,45-64,BLACK,F,8 Avenue(ACE),Middle Manhattan
+212,0,18-24,WHITE,M,8 Avenue(ACE),Middle Manhattan
+108,12,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Middle Manhattan
+25,4,45-64,WHITE,M,8 Avenue(ACE),Middle Manhattan
+70,8,25-44,BLACK,M,8 Avenue(ACE),Middle Manhattan
+149,16,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+13,8,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+70,16,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Queen
+17,16,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+262,20,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+102,4,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Queen
+40,16,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+246,16,<18,BLACK,M,6 Avenue(BDFM),Brooklyn
+137,4,45-64,BLACK HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+135,12,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+217,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+224,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+125,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+269,20,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+130,4,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+33,20,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+115,16,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+84,16,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+118,16,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+35,4,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+259,8,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+137,16,65+,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+190,16,45-64,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+263,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+68,12,25-44,BLACK,M,6 Avenue(BDFM),Middle Manhattan
+81,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+164,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+112,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+144,4,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Middle Manhattan
+153,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+91,12,65+,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+135,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+56,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+119,20,18-24,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+56,20,25-44,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+7,20,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+258,12,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+148,20,45-64,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+140,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+141,16,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Brooklyn
+40,4,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+258,8,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+74,8,18-24,BLACK,F,6 Avenue(BDFM),Brooklyn
+226,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Brooklyn
+46,8,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Brooklyn
+181,20,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Brooklyn
+233,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+247,0,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+181,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+141,12,45-64,WHITE,M,6 Avenue(BDFM),Brooklyn
+52,16,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+203,8,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+152,0,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Brooklyn
+13,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+158,8,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+99,12,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+161,12,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+255,8,<18,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+53,12,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+151,16,45-64,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+216,16,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+68,4,25-44,BLACK,F,6 Avenue(BDFM),Queen
+123,0,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+35,8,45-64,BLACK,M,6 Avenue(BDFM),Queen
+177,0,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+83,12,45-64,WHITE,M,6 Avenue(BDFM),Queen
+204,4,45-64,BLACK,F,6 Avenue(BDFM),Queen
+180,16,25-44,BLACK,M,6 Avenue(BDFM),Queen
+120,8,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+161,20,25-44,BLACK,M,6 Avenue(BDFM),Queen
+66,20,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+88,8,45-64,WHITE,M,6 Avenue(BDFM),Queen
+264,4,45-64,BLACK,F,6 Avenue(BDFM),Queen
+139,20,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+28,8,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+272,12,45-64,BLACK,M,6 Avenue(BDFM),Queen
+272,0,25-44,BLACK,M,6 Avenue(BDFM),Queen
+150,0,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+141,20,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+230,8,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+9,16,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+160,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+196,12,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Queen
+202,4,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+130,12,<18,WHITE,F,6 Avenue(BDFM),Queen
+132,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+130,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+255,12,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+249,12,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+230,12,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+159,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+165,12,65+,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+25,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+168,0,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+40,16,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+221,12,18-24,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+116,8,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+136,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+56,12,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+135,4,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+251,20,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+199,8,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+95,20,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+251,20,25-44,WHITE,M,6 Avenue(BDFM),Brooklyn
+84,16,25-44,WHITE,F,6 Avenue(BDFM),Brooklyn
+187,12,45-64,WHITE,F,6 Avenue(BDFM),Brooklyn
+258,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+258,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+2,12,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+261,20,<18,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+223,12,<18,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+117,12,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+209,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+14,12,<18,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+134,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+165,4,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+14,12,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+189,0,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+165,4,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+168,20,25-44,BLACK,M,6 Avenue(BDFM),Brooklyn
+68,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+68,0,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+145,16,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+147,12,18-24,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+182,8,45-64,BLACK HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+245,12,45-64,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+184,16,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+226,0,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+48,12,18-24,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+20,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+55,16,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+131,20,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+128,20,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+109,4,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+195,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+66,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+23,12,65+,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+88,4,45-64,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+235,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+234,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+110,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+44,8,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+52,12,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+61,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+26,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+234,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+31,4,25-44,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+235,8,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+266,8,65+,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+74,20,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+119,12,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+84,12,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+137,12,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+109,4,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+89,0,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+67,4,45-64,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+172,20,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+257,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+207,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+149,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+258,16,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+109,16,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+180,16,18-24,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+191,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+260,16,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+93,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+15,12,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+202,4,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+26,12,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+270,16,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+126,12,25-44,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+4,20,25-44,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+159,16,45-64,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+39,20,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+255,16,18-24,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+149,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+71,12,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+112,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+255,0,18-24,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+137,4,<18,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+253,16,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+108,20,18-24,BLACK HISPANIC,M,6 Avenue(BDFM),Lower Manhattan
+186,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+85,8,18-24,WHITE,M,6 Avenue(BDFM),Lower Manhattan
+236,8,25-44,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+93,20,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Lower Manhattan
+187,0,45-64,BLACK,M,6 Avenue(BDFM),Lower Manhattan
+185,12,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+196,20,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+7,20,18-24,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Lower Manhattan
+173,8,25-44,BLACK,F,6 Avenue(BDFM),Lower Manhattan
+126,0,18-24,WHITE,F,6 Avenue(BDFM),Lower Manhattan
+92,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Lower Manhattan
+100,0,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+190,8,45-64,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+103,0,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+194,4,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+184,16,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+162,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+1,12,65+,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+47,12,45-64,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+54,0,45-64,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+195,16,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+253,12,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+57,20,45-64,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+70,4,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Brooklyn
+257,12,18-24,WHITE,M,6 Avenue(BDFM),Brooklyn
+220,12,18-24,WHITE,M,6 Avenue(BDFM),Brooklyn
+81,12,<18,WHITE HISPANIC,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+252,16,25-44,BLACK HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+2,20,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+12,12,25-44,WHITE HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+103,20,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+248,12,45-64,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+223,0,18-24,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+246,8,45-64,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+185,12,18-24,WHITE,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+139,8,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+3,16,<18,WHITE HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+231,0,18-24,WHITE HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+208,8,25-44,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+143,8,45-64,ASIAN / PACIFIC ISLANDER,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+81,16,25-44,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+177,8,18-24,WHITE,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+125,12,25-44,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+213,12,18-24,WHITE HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+74,16,18-24,BLACK HISPANIC,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+251,16,18-24,BLACK HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+260,4,18-24,WHITE HISPANIC,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+127,12,45-64,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+164,16,25-44,WHITE HISPANIC,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+98,16,45-64,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+213,20,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+193,12,45-64,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+153,8,25-44,BLACK,M,Brooklyn-Queens Crosstown(G),Lower Manhattan
+147,8,65+,BLACK,M,Brooklyn-Queens Crosstown(G),Lower Manhattan
+171,16,18-24,BLACK HISPANIC,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+231,8,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+65,12,45-64,WHITE,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+243,4,25-44,BLACK HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+186,4,45-64,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+186,4,18-24,WHITE HISPANIC,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+255,20,25-44,WHITE,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+104,12,25-44,BLACK,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+126,20,18-24,WHITE HISPANIC,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+83,20,25-44,WHITE,M,Brooklyn-Queens Crosstown(G),Middle Manhattan
+42,16,25-44,BLACK,F,Brooklyn-Queens Crosstown(G),Middle Manhattan
+85,12,25-44,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+181,20,45-64,BLACK,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+27,8,25-44,BLACK,F,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+184,4,45-64,WHITE,M,Brooklyn-Queens Crosstown(G),Queen-Brooklyn
+79,0,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+133,4,45-64,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+200,20,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+167,20,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+271,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+153,20,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+209,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+266,12,<18,BLACK,M,8 Avenue(ACE),Queen
+111,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+85,16,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+37,4,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+74,8,25-44,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+237,8,65+,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+200,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+4,16,25-44,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+159,20,45-64,BLACK HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+232,0,25-44,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+144,20,65+,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+87,12,25-44,BLACK,M,6 Avenue(BDFM),Queen-Brooklyn
+131,12,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+239,20,45-64,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+161,16,65+,BLACK,M,6 Avenue(BDFM),Queen-Brooklyn
+114,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+65,20,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+189,12,65+,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+41,12,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+198,0,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+63,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+165,12,18-24,BLACK HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+188,4,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+234,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+48,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+68,12,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+109,16,25-44,BLACK,M,6 Avenue(BDFM),Queen-Brooklyn
+265,4,25-44,BLACK,M,6 Avenue(BDFM),Queen-Brooklyn
+202,4,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen-Brooklyn
+197,12,65+,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+258,12,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+95,12,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+242,12,18-24,BLACK HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+11,16,25-44,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+209,0,45-64,WHITE,M,6 Avenue(BDFM),Queen-Brooklyn
+121,12,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen-Brooklyn
+190,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+15,20,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+76,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+150,4,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+147,20,25-44,BLACK,M,8 Avenue(ACE),Queen
+244,8,65+,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+210,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+133,12,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+272,4,45-64,BLACK,F,8 Avenue(ACE),Queen
+264,8,45-64,BLACK,M,8 Avenue(ACE),Queen
+154,8,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+126,16,45-64,WHITE,M,8 Avenue(ACE),Queen
+226,0,45-64,BLACK,F,8 Avenue(ACE),Queen
+226,4,25-44,BLACK,F,8 Avenue(ACE),Queen
+256,20,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+127,0,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+232,20,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen
+76,20,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+253,20,45-64,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+21,16,25-44,WHITE,F,8 Avenue(ACE),Lower Manhattan
+9,20,45-64,BLACK,F,8 Avenue(ACE),Lower Manhattan
+208,20,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Lower Manhattan
+121,16,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+159,8,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Lower Manhattan
+37,20,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+125,12,18-24,BLACK,M,8 Avenue(ACE),Lower Manhattan
+247,4,18-24,WHITE,F,8 Avenue(ACE),Lower Manhattan
+37,20,25-44,BLACK,F,8 Avenue(ACE),Lower Manhattan
+192,16,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+267,4,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Lower Manhattan
+73,8,18-24,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Lower Manhattan
+196,0,65+,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+209,20,18-24,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen-Brooklyn
+18,20,25-44,WHITE,M,8 Avenue(ACE),Queen-Brooklyn
+237,0,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+265,4,45-64,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+188,16,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+125,20,45-64,BLACK,M,8 Avenue(ACE),Queen
+234,4,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+236,16,25-44,BLACK,F,8 Avenue(ACE),Queen
+201,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+216,4,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+237,4,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+180,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+203,12,45-64,WHITE HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+116,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+19,8,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+62,16,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen-Brooklyn
+137,12,25-44,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+112,20,45-64,BLACK HISPANIC,M,8 Avenue(ACE),Queen-Brooklyn
+110,12,45-64,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+205,8,45-64,BLACK,M,8 Avenue(ACE),Queen-Brooklyn
+160,12,25-44,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+44,12,25-44,ASIAN / PACIFIC ISLANDER,M,8 Avenue(ACE),Queen
+46,16,45-64,WHITE,M,8 Avenue(ACE),Queen
+171,16,<18,BLACK,F,8 Avenue(ACE),Queen-Brooklyn
+265,8,25-44,ASIAN / PACIFIC ISLANDER,F,8 Avenue(ACE),Queen-Brooklyn
+83,16,18-24,WHITE HISPANIC,F,8 Avenue(ACE),Queen-Brooklyn
+14,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+162,12,18-24,WHITE HISPANIC,M,8 Avenue(ACE),Queen
+14,16,25-44,WHITE HISPANIC,F,8 Avenue(ACE),Queen
+122,16,18-24,WHITE,F,14 St-Canarsie(L),Lower Manhattan
+211,0,25-44,BLACK,F,14 St-Canarsie(L),Lower Manhattan
+34,8,45-64,ASIAN / PACIFIC ISLANDER,M,14 St-Canarsie(L),Lower Manhattan
+180,12,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Lower Manhattan
+175,20,25-44,WHITE,F,14 St-Canarsie(L),Lower Manhattan
+261,20,25-44,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+47,12,45-64,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+137,20,45-64,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+263,12,<18,BLACK,F,14 St-Canarsie(L),Lower Manhattan
+180,8,18-24,BLACK,F,14 St-Canarsie(L),Lower Manhattan
+191,20,25-44,WHITE,M,14 St-Canarsie(L),Lower Manhattan
+180,8,18-24,BLACK,M,14 St-Canarsie(L),Lower Manhattan
+156,16,25-44,WHITE,M,14 St-Canarsie(L),Lower Manhattan
+101,4,18-24,WHITE,M,14 St-Canarsie(L),Lower Manhattan
+254,16,25-44,WHITE,M,14 St-Canarsie(L),Lower Manhattan
+7,12,25-44,WHITE HISPANIC,F,14 St-Canarsie(L),Lower Manhattan
+169,12,25-44,BLACK HISPANIC,F,14 St-Canarsie(L),Lower Manhattan
+61,16,45-64,ASIAN / PACIFIC ISLANDER,F,14 St-Canarsie(L),Queen-Brooklyn
+79,12,18-24,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+147,12,<18,ASIAN / PACIFIC ISLANDER,M,14 St-Canarsie(L),Queen-Brooklyn
+1,20,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+97,20,25-44,ASIAN / PACIFIC ISLANDER,F,14 St-Canarsie(L),Queen-Brooklyn
+2,20,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+219,4,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+228,4,25-44,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+89,8,25-44,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+96,12,25-44,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+150,12,25-44,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+263,20,25-44,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+202,16,45-64,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+93,16,18-24,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+110,8,25-44,BLACK HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+222,4,18-24,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+137,20,25-44,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+4,0,25-44,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+107,12,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+109,12,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+240,20,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+264,12,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+65,12,45-64,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+13,20,18-24,ASIAN / PACIFIC ISLANDER,F,14 St-Canarsie(L),Queen-Brooklyn
+113,16,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+272,12,25-44,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+184,20,<18,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+18,20,18-24,ASIAN / PACIFIC ISLANDER,M,14 St-Canarsie(L),Queen-Brooklyn
+241,8,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+27,16,45-64,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+18,20,65+,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+242,16,45-64,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+59,16,25-44,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+254,16,18-24,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+181,12,25-44,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+140,12,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+252,12,25-44,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+230,0,18-24,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+199,4,18-24,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+137,20,25-44,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+219,8,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+127,16,18-24,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+95,16,18-24,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+116,4,65+,BLACK HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+13,12,18-24,WHITE HISPANIC,F,14 St-Canarsie(L),Queen-Brooklyn
+13,12,18-24,BLACK,F,14 St-Canarsie(L),Queen-Brooklyn
+127,16,25-44,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+142,20,45-64,WHITE HISPANIC,M,14 St-Canarsie(L),Queen-Brooklyn
+45,8,18-24,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+254,16,<18,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+67,12,<18,BLACK,M,14 St-Canarsie(L),Queen-Brooklyn
+49,12,45-64,WHITE,M,14 St-Canarsie(L),Queen-Brooklyn
+141,12,18-24,WHITE,F,14 St-Canarsie(L),Queen-Brooklyn
+227,4,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+118,12,65+,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+66,4,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+15,8,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+87,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen-Brooklyn
+262,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+247,12,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+18,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+178,12,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen-Brooklyn
+219,20,45-64,BLACK HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+224,20,45-64,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+48,16,45-64,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+83,16,65+,BLACK HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+238,16,25-44,BLACK,M,6 Avenue(BDFM),Queen-Brooklyn
+266,0,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen-Brooklyn
+75,16,65+,WHITE,M,6 Avenue(BDFM),Queen-Brooklyn
+58,16,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+264,16,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+253,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+56,8,45-64,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+47,16,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+181,16,<18,BLACK,F,6 Avenue(BDFM),Queen-Brooklyn
+225,4,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+180,0,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+15,16,18-24,WHITE,M,6 Avenue(BDFM),Queen-Brooklyn
+192,8,18-24,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+86,8,18-24,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+55,12,25-44,WHITE,F,6 Avenue(BDFM),Queen-Brooklyn
+181,16,<18,BLACK HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+110,8,65+,WHITE,M,6 Avenue(BDFM),Queen-Brooklyn
+231,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen-Brooklyn
+196,8,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+53,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen-Brooklyn
+77,16,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+122,16,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+116,16,45-64,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+91,8,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+240,8,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+259,20,<18,WHITE,M,6 Avenue(BDFM),Queen
+107,16,25-44,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+159,16,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Middle Manhattan
+91,16,18-24,BLACK HISPANIC,M,6 Avenue(BDFM),Middle Manhattan
+228,12,45-64,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+270,0,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Queen
+103,16,45-64,WHITE,F,6 Avenue(BDFM),Queen
+7,8,<18,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+216,8,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+48,20,45-64,WHITE,F,6 Avenue(BDFM),Queen
+237,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+243,20,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+263,12,45-64,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+42,16,<18,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+160,12,45-64,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Queen
+3,20,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+242,8,65+,ASIAN / PACIFIC ISLANDER,F,6 Avenue(BDFM),Queen
+45,16,25-44,BLACK,F,6 Avenue(BDFM),Queen
+145,8,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+226,0,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+191,16,25-44,WHITE HISPANIC,M,6 Avenue(BDFM),Queen
+204,4,25-44,BLACK,F,6 Avenue(BDFM),Middle Manhattan
+74,20,18-24,WHITE HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+106,8,25-44,BLACK HISPANIC,F,6 Avenue(BDFM),Middle Manhattan
+147,16,45-64,WHITE,M,6 Avenue(BDFM),Middle Manhattan
+68,8,25-44,ASIAN / PACIFIC ISLANDER,M,6 Avenue(BDFM),Middle Manhattan
+185,12,25-44,WHITE,F,6 Avenue(BDFM),Middle Manhattan
+73,16,25-44,WHITE HISPANIC,F,6 Avenue(BDFM),Queen
+165,12,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+266,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+253,16,45-64,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+138,8,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Brooklyn
+173,4,45-64,WHITE,F,Broadway(NQRW),Brooklyn
+159,16,45-64,WHITE,F,Broadway(NQRW),Brooklyn
+204,16,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+90,12,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+141,12,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+222,0,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+114,12,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+109,20,18-24,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+24,16,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+91,20,65+,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+24,16,65+,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+192,16,45-64,BLACK,M,Broadway(NQRW),Middle Manhattan
+90,8,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+105,20,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+12,8,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+127,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+86,8,18-24,BLACK,F,Broadway(NQRW),Middle Manhattan
+92,12,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+92,12,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+62,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+56,12,45-64,WHITE,F,Broadway(NQRW),Middle Manhattan
+197,8,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+9,12,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+193,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+265,20,18-24,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+211,16,18-24,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Brooklyn
+257,12,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+227,12,45-64,WHITE,M,Broadway(NQRW),Brooklyn
+130,20,45-64,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+84,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+168,8,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+9,8,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+124,16,65+,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+264,20,45-64,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+1,4,45-64,BLACK,F,Broadway(NQRW),Brooklyn
+76,8,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Brooklyn
+238,8,25-44,BLACK,F,Broadway(NQRW),Brooklyn
+92,8,45-64,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+120,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+194,0,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+41,16,18-24,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+178,0,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+8,16,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+164,12,25-44,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+79,8,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+56,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+134,20,18-24,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+254,8,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+105,8,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+173,12,65+,WHITE,F,Broadway(NQRW),Lower Manhattan
+146,4,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+85,20,25-44,BLACK HISPANIC,M,Broadway(NQRW),Lower Manhattan
+201,0,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+34,8,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+46,16,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+271,4,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+86,20,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+263,12,65+,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+243,12,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Lower Manhattan
+70,12,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+263,0,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+198,20,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+137,12,45-64,WHITE,F,Broadway(NQRW),Lower Manhattan
+182,0,65+,WHITE,M,Broadway(NQRW),Lower Manhattan
+228,12,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+146,4,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+190,12,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+149,0,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+76,8,25-44,BLACK HISPANIC,F,Broadway(NQRW),Lower Manhattan
+124,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan
+121,16,45-64,WHITE,F,Broadway(NQRW),Lower Manhattan
+34,8,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+116,12,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+29,20,25-44,BLACK,M,Broadway(NQRW),Lower Manhattan
+42,16,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+102,16,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+217,8,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+69,4,25-44,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+48,12,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+188,8,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+67,8,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+272,16,18-24,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+121,20,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+250,8,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+141,12,18-24,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+213,8,18-24,WHITE,F,Broadway(NQRW),Lower Manhattan
+61,16,18-24,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Lower Manhattan
+27,20,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+183,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+211,8,45-64,BLACK,F,Broadway(NQRW),Middle Manhattan
+68,12,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+183,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+125,20,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+202,16,25-44,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Middle Manhattan
+4,8,18-24,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+85,0,25-44,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+55,8,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Middle Manhattan
+87,20,45-64,WHITE HISPANIC,F,Broadway(NQRW),Middle Manhattan
+214,20,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+202,12,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+80,0,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+80,0,25-44,WHITE,M,Broadway(NQRW),Middle Manhattan
+80,0,25-44,BLACK,F,Broadway(NQRW),Middle Manhattan
+45,0,45-64,WHITE,M,Broadway(NQRW),Middle Manhattan
+90,8,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+220,8,45-64,WHITE HISPANIC,M,Broadway(NQRW),Middle Manhattan
+234,16,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+252,8,<18,BLACK,F,Broadway(NQRW),Middle Manhattan
+209,4,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+258,0,25-44,BLACK,F,Broadway(NQRW),Middle Manhattan
+110,0,25-44,BLACK,M,Broadway(NQRW),Middle Manhattan
+199,16,25-44,WHITE,F,Broadway(NQRW),Middle Manhattan
+172,16,45-64,WHITE,M,Broadway(NQRW),Brooklyn
+31,8,45-64,BLACK,M,Broadway(NQRW),Brooklyn
+5,16,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+127,8,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+260,0,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+178,20,25-44,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+86,12,25-44,BLACK,F,Broadway(NQRW),Brooklyn
+120,20,45-64,BLACK,M,Broadway(NQRW),Brooklyn
+197,20,18-24,BLACK,M,Broadway(NQRW),Brooklyn
+272,20,45-64,ASIAN / PACIFIC ISLANDER,M,Broadway(NQRW),Brooklyn
+108,20,25-44,WHITE HISPANIC,F,Broadway(NQRW),Brooklyn
+227,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+266,8,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+126,8,<18,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+272,12,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+124,16,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+145,16,45-64,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+127,16,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+128,16,25-44,WHITE,F,Broadway(NQRW),Brooklyn
+256,16,25-44,ASIAN / PACIFIC ISLANDER,F,Broadway(NQRW),Brooklyn
+144,20,25-44,WHITE,M,Broadway(NQRW),Brooklyn
+49,12,65+,WHITE,M,Broadway(NQRW),Brooklyn
+48,20,45-64,WHITE,M,Broadway(NQRW),Brooklyn
+242,8,45-64,BLACK,M,Broadway(NQRW),Brooklyn
+242,8,25-44,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+138,20,18-24,WHITE HISPANIC,M,Broadway(NQRW),Brooklyn
+87,16,45-64,BLACK,M,Broadway(NQRW),Brooklyn
+90,12,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+75,16,25-44,BLACK,F,Broadway(NQRW),Lower Manhattan
+23,8,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+214,8,<18,BLACK,F,Broadway(NQRW),Lower Manhattan
+169,0,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+221,8,18-24,BLACK,F,Broadway(NQRW),Lower Manhattan
+256,8,<18,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+197,16,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+171,8,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+125,0,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+208,4,18-24,WHITE,F,Broadway(NQRW),Lower Manhattan
+219,20,25-44,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+157,4,45-64,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+124,0,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+102,12,45-64,WHITE,F,Broadway(NQRW),Lower Manhattan
+271,12,<18,BLACK,M,Broadway(NQRW),Lower Manhattan
+82,4,45-64,BLACK,M,Broadway(NQRW),Lower Manhattan
+51,16,45-64,WHITE,M,Broadway(NQRW),Lower Manhattan
+143,12,18-24,WHITE HISPANIC,M,Broadway(NQRW),Lower Manhattan
+202,16,25-44,WHITE,F,Broadway(NQRW),Lower Manhattan
+70,0,45-64,WHITE HISPANIC,F,Broadway(NQRW),Lower Manhattan
+44,8,45-64,BLACK,F,Broadway(NQRW),Lower Manhattan
+120,8,25-44,WHITE,M,Broadway(NQRW),Lower Manhattan

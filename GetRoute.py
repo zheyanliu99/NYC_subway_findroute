@@ -5,15 +5,19 @@ Date:11/18/2021
 
 # %% packages
 import pandas as pd
+import numpy as np
 import googlemaps
 import datetime
 import warnings
+from sklearn import preprocessing
 warnings.filterwarnings("ignore")
 
 # %% read data
 # stations_df = pd.read_csv('data/subway_info_final3.csv', encoding= 'unicode_escape')
 # target_stations_df = stations_df[stations_df['linename'].str.contains('A')]
 cluster_df = pd.read_csv('data/Kmeans_centers.csv')
+
+
 
 stations_df = pd.read_csv('data/NYC_Transit_Subway_Entrance_And_Exit_Data.csv', encoding= 'unicode_escape')
 stations_df = stations_df.fillna('')
@@ -22,9 +26,11 @@ stations_df = stations_df[['Station Name', 'Station Latitude', 'Station Longitud
 stations_df.columns = ['station', 'lat', 'long', 'linename']
 stations_df = stations_df.drop_duplicates()
 
+cri = pd.read_csv("data/df_train_val06.csv")
+test_df = pd.read_csv("data/df_test.csv")
+z_np = np.loadtxt('data/z_np', dtype=np.float32, delimiter=',')
 
 # %%
-
 def extract_info_from_direction(legs, route_num):
 
         step_dict = {'time':0,
@@ -235,4 +241,56 @@ impute_and_match(stops_df)
 #     for line in lines:
 #         df_sub = df_sub1[df_sub1['line'] == line]
 #         num_stops = df_sub[['num_stops']].iloc[0,][0]
-        
+
+
+# %% GNN application
+def hour_approximate(hour):
+    switcher={22:0, 23:0, 0:0, 1:0, 
+              2:4, 3:4, 4:4 ,5:4,
+              6:8,7:8,8:8,9:8,
+              10:12,11:12,12:12,13:12,
+              14:16,15:16,16:16,17:16,
+              18:16,19:16,20:16,21:20}
+    return switcher.get(hour, "Invalid")
+
+
+def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
+    cri = cri.copy(deep=False)
+    if 'route_num' in test_df.columns:
+        route_num_series = test_df['route_num']
+        # drop route_num
+        test_df = test_df.drop('route_num', axis = 1)
+        # change date to day of year
+        test_df['date'] = test_df['date'].apply(lambda x:datetime.datetime.strptime(x , "%Y-%m-%d").timetuple().tm_yday)
+        # change time to time interval
+        test_df['time'] = test_df['time'].apply(lambda x:datetime.datetime.strptime(x ,  "%Y-%m-%d %H:%M:%S").timetuple().tm_hour)
+        test_df['time'] = test_df['time'].apply(lambda x:hour_approximate(x))
+    else:
+        route_num_series = 0
+
+
+    test_df.columns = cri.columns[0:7]
+    cri["user_id"] = cri['yday'].map(str) + " " + cri['time'].map(str) 
+    cri["item_id"] = cri['vic_age_group'].map(str) + cri['vic_race'].map(str) + cri['vic_sex'].map(str) + cri['service'].map(str)+ cri['cluster'].map(str)
+    test_df["user_id"] = test_df['yday'].map(str) + " " + test_df['time'].map(str) 
+    test_df["item_id"] = test_df['vic_age_group'].map(str) + test_df['vic_race'].map(str) + test_df['vic_sex'].map(str) + test_df['service'].map(str)+ test_df['cluster'].map(str)
+    for column in cri:
+        le = preprocessing.LabelEncoder()
+        print(column)
+        le.fit(cri[column])
+        cri[column] = le.transform(cri[column])
+        test_df[column] = le.transform(test_df[column])
+    test_df['item_id']= test_df['item_id']+ cri.max()['user_id'] + 1   
+    pred = np.sum(z_np[test_df['user_id']] * z_np[test_df['item_id']],axis=1)
+    test_df['crime_score'] = pred
+    test_df['route_num'] = route_num_series
+    test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).mean()
+    return test_df_grouped
+
+
+
+# %%
+test_r = pd.read_csv('data/test_r.csv')
+GNNpredict(test_r)
+
+# %%

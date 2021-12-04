@@ -5,9 +5,9 @@ account: zheyanliu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5206739
-bundleId: 5322472
+bundleId: 5322481
 url: https://zheyanliu.shinyapps.io/NYC_subway_findroute/
-when: 1638516242.65048
-lastSyncTime: 1638516242.65048
+when: 1638516407.53024
+lastSyncTime: 1638516407.53024
 asMultiple: FALSE
 asStatic: FALSE

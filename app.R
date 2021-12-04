@@ -13,7 +13,7 @@ library(tidyverse)
 library(reticulate)
 library(leaflet)
 
-PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime')
+PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime','sklearn')
 # use local python
 use_python('/Users/jimmy/anaconda3/python.exe')
 
@@ -41,6 +41,9 @@ subwayIcons <- icons(
   iconWidth = 12, iconHeight = 12,
   iconAnchorX = 12, iconAnchorY = 12,
 )
+
+# read cri train
+cri = read_csv('data/df_train_val06.csv')
 
 # mygoogle_routes$start_location = '168 st, NY'
 # mygoogle_routes$destination = '24 st, NY'
@@ -70,10 +73,10 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                       selectInput("gender", "Your Gender",
                                                   list("Female", "Male")),
                                       selectInput("age", "Your Age:",
-                                                  list("<18", "18-30",'30-50','>50')),
+                                                  list("<18", "18-24",'25-44','45-64','65+')),
                                       selectInput("race", "Your Race:",
-                                                  list(`Hispanic` = list('Hispanic'),
-                                                       `Non-Hispanic` = list("White", "Black",'Asian'))),
+                                                  list(`Hispanic` = list('BLACK HISPANIC', 'WHITE HISPANIC'),
+                                                       `Non-Hispanic` = list("BLACK", "WHITE",'ASIAN / PACIFIC ISLANDER', 'AMERICAN INDIAN/ALASKAN NATIVE'))),
                                       
                                       
                                       HTML("<h5>When you leave?</h5>"),
@@ -150,8 +153,7 @@ server <- function(input, output, session) {
     mygoogle_routes = google_routes()
     mygoogle_routes$directions_df = reticulate::r_to_py(directions_raw())
     
-    
-    df2 = 
+    df3 = 
       directions_raw() %>% 
       mutate(
         # change time into minuates
@@ -167,21 +169,15 @@ server <- function(input, output, session) {
                   line = paste0(line, '[', as.character(num_stops), ']', collapse = " - "),
                   n = n()) %>% 
         mutate(
-          crime_score = round(runif(n),2),
+          # crime_score = round(runif(n),2),
           crowdness_score = round(runif(n),2)
         ) %>% 
         # distinct(line, .keep_all = TRUE) %>% 
-        select(-n, -distance) %>% 
-        relocate(route_num, time, walking_distance, crime_score, crowdness_score, line) %>% 
-        rename('line[stops]' = line,
-               'time(min)' = time,
-               # 'distance(mile)' = distance,
-               'walking_distance(mile)' = walking_distance)  
-      
+        select(-n, -distance) 
     
       
   })
-  
+ 
   df_withmodel =reactive({
     
     input$submitbutton
@@ -212,17 +208,38 @@ server <- function(input, output, session) {
              age = input$age,
              race = input$race,
              date = adate,
-             time = input$time_input) %>% 
+             time = as.character(input$time_input)) %>% 
+      mutate(gender = ifelse(gender == 'Female', 'F', 'M')) %>% 
+      
       relocate(route_num)
     
     df2 = impute_and_match(df1)
-    print(input$start_date)
-    df2
+    print(df2)
+    df2 =
+      df2 %>%
+      select(route_num, date, time, age, race, gender, service, cluster)
+    # code to check
+    # write.csv(df2,'data/test_r.csv', row.names = FALSE)
+    GNNpredict(df2)
   
     
   })
   
-  
+  directions_grouped2 = reactive({  
+    # take dependence on button
+    input$submitbutton
+    
+    directions_grouped() %>% 
+      left_join(df_withmodel(), by = 'route_num') %>% 
+      mutate(crime_score = round(crime_score, 3)) %>% 
+      relocate(route_num, time, walking_distance, crime_score, crowdness_score, line) %>% 
+      rename('line[stops]' = line,
+             'time(min)' = time,
+             # 'distance(mile)' = distance,
+             'walking_distance(mile)' = walking_distance)  
+    
+    
+  })  
   
   df_map = reactive({
     
@@ -268,15 +285,20 @@ server <- function(input, output, session) {
       cat('You have selected ')
       cat(paste('Route',s), sep = ', ')
     }
+    else{
+      cat("You can click on Routes above to show Route Maps")
+    }
   })
   
   
   
   output$tabledata <- DT::renderDataTable({
-      if (input$submitbutton>0) {
-        DT::datatable(directions_grouped(),
-                      options = list(scrollX = TRUE),
-                      rownames = FALSE)
+    input$submitbutton
+    
+    if (input$submitbutton>0) {
+      DT::datatable(directions_grouped2(),
+                    options = list(scrollX = TRUE),
+                    rownames = FALSE)
       }
     })
   
