@@ -116,17 +116,18 @@ ui <- fluidPage(theme = shinytheme("paper"),
 # Server                           #
 ####################################
 server <- function(input, output, session) {
-
-  departure_time = reactive({  
-    
-    input$submitbutton
+  observeEvent(input$submitbutton, {
+    cat("Click Once")
+  })
+  
+  departure_time = eventReactive(input$submitbutton, {  
     
     paste(input$start_date, unlist(strsplit(as.character(input$time_input), split = ' '))[2], sep = ' ')
   })
   
   
   # Input Data
-  directions_raw = reactive({  
+  directions_raw = eventReactive(input$submitbutton, {  
     
     mygoogle_routes = google_routes()
     
@@ -146,7 +147,7 @@ server <- function(input, output, session) {
     
   })
   
-  directions_grouped = reactive({  
+  directions_grouped = eventReactive(input$submitbutton, {  
     # take dependence on button
     input$submitbutton
     
@@ -178,7 +179,7 @@ server <- function(input, output, session) {
       
   })
  
-  df_withmodel =reactive({
+  df_withmodel = eventReactive(input$submitbutton, {
     
     input$submitbutton
     
@@ -225,7 +226,7 @@ server <- function(input, output, session) {
     
   })
   
-  directions_grouped2 = reactive({  
+  directions_grouped2 = eventReactive(input$submitbutton, {  
     # take dependence on button
     input$submitbutton
     
