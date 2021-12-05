@@ -346,12 +346,33 @@ server <- function(input, output, session) {
                            'Lexington Av(456)',
                            'Flushing(7)'))
   
+  pal2 <- 
+    colorFactor(palette = c("blue", 'blue', 'blue',
+                            "azure4", 
+                            "orange", "orange", "orange", "orange",
+                            'green',
+                            'brown',
+                            'yellow', 'yellow', 'yellow', 'yellow',
+                            'red', 'red', 'red',
+                            'forestgreen', 'forestgreen', 'forestgreen',
+                            'purple'), 
+                levels = c('A', 'C', 'E',
+                           'S',
+                           'B', 'D', 'F', 'M',
+                           'G',
+                           'L',
+                           'N', 'Q', 'R', 'W',
+                           '1', '2', '3',
+                           '4', '5', '6',
+                           '7'))
+  
   observe({
 
 
     leafletProxy("mymap", data = df_map()) %>%
       clearShapes()  %>%
-      clearMarkers()
+      clearMarkers() %>% 
+      clearControls()
 
     # print('I am here')
     # print(df_map() %>%  distinct(group) %>%  pull(group))
@@ -364,7 +385,9 @@ server <- function(input, output, session) {
     leafletProxy("mymap", data = df_map()) %>%
       # addCircles(lng = ~lng , lat = ~lat, weight = 1, stroke = FALSE,
       #                                      radius = 400, opacity = 1, fillOpacity = 1)
-      addMarkers(lng = ~long, lat = ~lat, icon = subwayIcons)
+      addMarkers(lng = ~long, lat = ~lat, icon = subwayIcons) %>% 
+      addLegend("topright", pal = pal2, values = ~line, 
+                title = "Line", opacity = 0.75)
 
 
   })

@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[28]:
+
+
+# %load GetRoute.py
 '''
 Author: Zheyan Liu
 Date:11/18/2021
@@ -274,17 +281,20 @@ def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
     cri["item_id"] = cri['vic_age_group'].map(str) + cri['vic_race'].map(str) + cri['vic_sex'].map(str) + cri['service'].map(str)+ cri['cluster'].map(str)
     test_df["user_id"] = test_df['yday'].map(str) + " " + test_df['time'].map(str) 
     test_df["item_id"] = test_df['vic_age_group'].map(str) + test_df['vic_race'].map(str) + test_df['vic_sex'].map(str) + test_df['service'].map(str)+ test_df['cluster'].map(str)
-    for column in cri:
+    for column in cri[['user_id','item_id']]:
         le = preprocessing.LabelEncoder()
-        print(column)
         le.fit(cri[column])
+        le_dict = dict(zip(le.classes_, le.transform(le.classes_)))
         cri[column] = le.transform(cri[column])
-        test_df[column] = le.transform(test_df[column])
-    test_df['item_id']= test_df['item_id']+ cri.max()['user_id'] + 1   
+        test_df[column] = test_df[column].apply(lambda x: le_dict.get(x, -9000))
+    cri['item_id']= cri['item_id']+ cri.max()['user_id'] + 1   
+    test_df['item_id']= test_df['item_id']+ cri.max()['user_id'] + 1  
+    for column in cri[['user_id','item_id']]:
+        test_df = test_df[test_df[column].isin(list(cri[column].unique()))]
     pred = np.sum(z_np[test_df['user_id']] * z_np[test_df['item_id']],axis=1)
     test_df['crime_score'] = pred
     test_df['route_num'] = route_num_series
-    test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).mean()
+    test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).sum()
     return test_df_grouped
 
 
@@ -294,3 +304,10 @@ test_r = pd.read_csv('data/test_r.csv')
 GNNpredict(test_r)
 
 # %%
+
+
+# In[ ]:
+
+
+
+
