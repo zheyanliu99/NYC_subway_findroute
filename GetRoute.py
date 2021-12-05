@@ -294,7 +294,7 @@ def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
     pred = np.sum(z_np[test_df['user_id']] * z_np[test_df['item_id']],axis=1)
     test_df['crime_score'] = pred
     test_df['route_num'] = route_num_series
-    test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).max()
+    test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).sum()
     return test_df_grouped
 
 
