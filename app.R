@@ -174,7 +174,9 @@ server <- function(input, output, session) {
           crowdness_score = round(runif(n),2)
         ) %>% 
         # distinct(line, .keep_all = TRUE) %>% 
-        select(-n, -distance) 
+        select(-n, -distance) %>% 
+        # select distinct
+        distinct(line, .keep_all = TRUE)
     
       
   })
