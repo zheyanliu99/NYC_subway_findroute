@@ -15,17 +15,17 @@ library(leaflet)
 
 PYTHON_DEPENDENCIES = c('pip', 'numpy','pandas','googlemaps','datetime','sklearn')
 # use local python
-# use_python('/Users/jimmy/anaconda3/python.exe')
-# 
-# # ------------------ App virtualenv setup (Do not edit) ------------------- #
-# 
-# virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
-# python_path = Sys.getenv('PYTHON_PATH')
-# #
-# # Create virtual env and install dependencies
-# reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
-# reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
-# reticulate::use_virtualenv(virtualenv_dir, required = T)
+use_python('/Users/jimmy/anaconda3/python.exe')
+
+# ------------------ App virtualenv setup (Do not edit) ------------------- #
+
+virtualenv_dir = Sys.getenv('VIRTUALENV_NAME')
+python_path = Sys.getenv('PYTHON_PATH')
+#
+# Create virtual env and install dependencies
+reticulate::virtualenv_create(envname = virtualenv_dir, python = python_path)
+reticulate::virtualenv_install(virtualenv_dir, packages = PYTHON_DEPENDENCIES, ignore_installed=TRUE)
+reticulate::use_virtualenv(virtualenv_dir, required = T)
 
 
 # ------------------ App server logic (Edit anything below) --------------- #
@@ -76,7 +76,8 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                                   list("<18", "18-24",'25-44','45-64','65+')),
                                       selectInput("race", "Your Race:",
                                                   list(`Hispanic` = list('BLACK HISPANIC', 'WHITE HISPANIC'),
-                                                       `Non-Hispanic` = list("BLACK", "WHITE",'ASIAN / PACIFIC ISLANDER', 'AMERICAN INDIAN/ALASKAN NATIVE'))),
+                                                       `Non-Hispanic` = list("BLACK", "WHITE",'ASIAN / PACIFIC ISLANDER', 'AMERICAN INDIAN/ALASKAN NATIVE')),
+                                                  selected = 'BLACK'),
                                       
                                       
                                       HTML("<h5>When you leave?</h5>"),

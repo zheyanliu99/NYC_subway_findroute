@@ -37,6 +37,7 @@ cri = pd.read_csv("data/df_train_val06.csv")
 test_df = pd.read_csv("data/df_test.csv")
 z_np = np.loadtxt('data/zz_np', dtype=np.float32, delimiter=',')
 
+z_np
 # %%
 def extract_info_from_direction(legs, route_num):
 
@@ -289,10 +290,12 @@ def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
         test_df[column] = test_df[column].apply(lambda x: le_dict.get(x, -9000))
     cri['item_id']= cri['item_id']+ cri.max()['user_id'] + 1   
     test_df['item_id']= test_df['item_id']+ cri.max()['user_id'] + 1  
+    print(test_df)
     for column in cri[['user_id','item_id']]:
         test_df = test_df[test_df[column].isin(list(cri[column].unique()))]
     pred = np.sum(z_np[test_df['user_id']] * z_np[test_df['item_id']],axis=1)
     test_df['crime_score'] = pred
+    print(test_df['crime_score'].mean())
     test_df['crime_score']=np.int64(test_df['crime_score']>0.45)
     test_df['route_num'] = route_num_series
     test_df_grouped = test_df[['route_num', 'crime_score']].groupby(by="route_num", as_index = False).sum()
@@ -303,6 +306,7 @@ def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
 # %%
 test_r = pd.read_csv('data/test_r.csv')
 GNNpredict(test_r)
+
 
 # %%
 
