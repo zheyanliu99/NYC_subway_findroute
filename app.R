@@ -240,7 +240,8 @@ server <- function(input, output, session) {
       rename('line[stops]' = line,
              'time(min)' = time,
              # 'distance(mile)' = distance,
-             'walking_distance(mile)' = walking_distance)  
+             'walking_distance(mile)' = walking_distance)  %>% 
+      select(-crowdness_score)
     
     
   })  
