@@ -224,9 +224,9 @@ class google_routes():
 
 # %%
         
-mygoogle_routes = google_routes()
-directions_df = mygoogle_routes.get_directions("2021-12-04 12:12:55")
-stops_df = mygoogle_routes.get_stops()
+# mygoogle_routes = google_routes()
+# directions_df = mygoogle_routes.get_directions("2021-12-04 12:12:55")
+# stops_df = mygoogle_routes.get_stops()
 
 
 
@@ -238,7 +238,7 @@ def impute_and_match(stops_df, cluster_df = cluster_df):
     stops_df['cluster'] = cluster_list
     return stops_df
     
-impute_and_match(stops_df)
+# impute_and_match(stops_df)
 
 # # code to impute, looks like no need to use
 # df = stops_df.merge(directions_df[['line', 'route_num', 'num_stops']], how = 'left', on = ['line', 'route_num'])
@@ -304,8 +304,8 @@ def GNNpredict(test_df, cri = cri.copy(deep=False), z_np = z_np):
 
 
 # %%
-test_r = pd.read_csv('data/test_r.csv')
-GNNpredict(test_r)
+# test_r = pd.read_csv('data/test_r.csv')
+# GNNpredict(test_r)
 
 
 # %%
