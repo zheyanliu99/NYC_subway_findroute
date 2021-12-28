@@ -62,7 +62,7 @@ cri = read_csv('data/df_train_val06.csv')
 # User Interface                   #
 ####################################
 ui <- fluidPage(theme = shinytheme("paper"),
-                navbarPage("No crime Navigation:",
+                navbarPage("Crime-free Subway Route Identification:",
                            
                            tabPanel("Home",
                                     # Input values
@@ -97,6 +97,7 @@ ui <- fluidPage(theme = shinytheme("paper"),
                                     ),
                                     
                                     mainPanel(
+                                      uiOutput("urls"),
                                       tags$label(h3('Routes')), # Status/Output Text Box
                                       verbatimTextOutput('contents'),
                                       DT::dataTableOutput("tabledata"), # Results DT table
@@ -117,6 +118,11 @@ ui <- fluidPage(theme = shinytheme("paper"),
 # Server                           #
 ####################################
 server <- function(input, output, session) {
+  url = a('Crime-score explaination', href='https://zheyanliu99.github.io/SubwayCrime/report_model.html')
+  output$urls <- renderUI({
+    tagList("Click to see how we get crime score from GNN model:", url)
+  })
+  
   observeEvent(input$submitbutton, {
     cat("Click Once")
   })
