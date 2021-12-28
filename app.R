@@ -62,7 +62,7 @@ cri = read_csv('data/df_train_val06.csv')
 # User Interface                   #
 ####################################
 ui <- fluidPage(theme = shinytheme("paper"),
-                navbarPage("Crime-free Subway Route Identification:",
+                navbarPage("Crime-free Subway Route Identification",
                            
                            tabPanel("Home",
                                     # Input values
